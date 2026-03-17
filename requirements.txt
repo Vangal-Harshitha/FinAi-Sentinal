@@ -1,45 +1,20 @@
-# FinAI — Python Dependencies
-# Install: pip install -r requirements.txt
-
-# ── Web Framework ──────────────────────────────────────────────────────────────
-fastapi==0.115.0
+fastapi==0.110.0
 uvicorn[standard]==0.30.6
 python-multipart==0.0.12
 aiofiles==24.1.0
 
-# ── Database ───────────────────────────────────────────────────────────────────
 sqlalchemy==2.0.35
 asyncpg==0.29.0
 psycopg2-binary==2.9.9
 alembic==1.13.3
 
-# ── Validation & Settings ──────────────────────────────────────────────────────
-pydantic==2.9.2
-pydantic-settings==2.5.2
+pydantic==1.10.13
 email-validator==2.2.0
 
-# ── Security ───────────────────────────────────────────────────────────────────
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 
-# ── ML / Data Science ─────────────────────────────────────────────────────────
-numpy==1.26.4
-pandas==2.2.3
-scikit-learn==1.5.2
-joblib==1.4.2
-shap==0.46.0
-
-# ── Utilities ─────────────────────────────────────────────────────────────────
 python-dotenv==1.0.1
 httpx==0.27.2
 loguru==0.7.2
 pillow==10.4.0
-
-# ── Optional Heavy ML (uncomment as needed) ────────────────────────────────────
-# torch==2.4.0
-# transformers==4.45.0          # FinBERT categorisation
-# openai-whisper==20231117      # Voice transcription
-# paddlepaddle==2.6.2           # PaddleOCR backend
-# paddleocr==2.9.1              # Receipt OCR
-# pytesseract==0.3.13           # Tesseract fallback OCR
-# stable-baselines3==2.3.2      # RL budget optimizer
