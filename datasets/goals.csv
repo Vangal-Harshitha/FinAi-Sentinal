@@ -1,0 +1,1001 @@
+goal_id,user_id,goal_name,goal_category,target_amount,current_savings,deadline_months,monthly_required,priority,status
+GOAL00001,USR00655,House Down Payment,property,3547000,1527500,86,23482.56,High,active
+GOAL00002,USR00282,International Vacation,travel,219000,22000,9,21888.89,High,active
+GOAL00003,USR00755,House Down Payment,property,11927000,2983500,76,117677.63,Medium,active
+GOAL00004,USR00914,Stock Market Portfolio,investment,260000,41000,19,11526.32,High,active
+GOAL00005,USR00433,Emergency Fund,savings,775000,272000,19,26473.68,High,active
+GOAL00006,USR00224,International Vacation,travel,212000,71000,5,28200.0,Medium,active
+GOAL00007,USR00028,Stock Market Portfolio,investment,456000,49500,19,21394.74,High,active
+GOAL00008,USR00666,Bike Purchase,vehicle,92000,13500,4,19625.0,Medium,active
+GOAL00009,USR00226,Gadget / Laptop,technology,54000,20000,10,3400.0,Medium,active
+GOAL00010,USR00829,Medical Insurance Fund,healthcare,178000,84500,9,10388.89,High,active
+GOAL00011,USR00826,New Car Purchase,vehicle,1847000,817500,13,79192.31,Medium,active
+GOAL00012,USR00349,Wedding Fund,lifestyle,5572000,1405500,10,416650.0,High,active
+GOAL00013,USR00981,Festival Shopping Fund,lifestyle,16000,10500,2,2750.0,Medium,active
+GOAL00014,USR00095,Retirement Corpus,retirement,3872000,1205000,191,13963.35,High,active
+GOAL00015,USR00868,Higher Education,education,1229000,409500,47,17436.17,Medium,active
+GOAL00016,USR00827,Emergency Fund,savings,260000,33500,17,13323.53,Medium,active
+GOAL00017,USR00550,House Down Payment,property,6424000,3219500,71,45133.8,Low,active
+GOAL00018,USR00388,House Down Payment,property,352000,45000,90,3411.11,Medium,active
+GOAL00019,USR00850,Child Education Fund,education,1362000,601000,95,8010.53,Medium,active
+GOAL00020,USR00883,Higher Education,education,480000,42000,21,20857.14,Medium,active
+GOAL00021,USR00722,House Down Payment,property,674000,125000,101,5435.64,High,active
+GOAL00022,USR00234,Festival Shopping Fund,lifestyle,149000,50500,3,32833.33,High,active
+GOAL00023,USR00082,Medical Insurance Fund,healthcare,54000,27000,19,1421.05,High,active
+GOAL00024,USR00104,Retirement Corpus,retirement,15375000,3456500,72,165534.72,High,active
+GOAL00025,USR00651,Medical Insurance Fund,healthcare,253000,14000,9,26555.56,Medium,active
+GOAL00026,USR00380,Higher Education,education,200000,22000,12,14833.33,High,active
+GOAL00027,USR00274,Bike Purchase,vehicle,622000,160500,15,30766.67,Low,active
+GOAL00028,USR00664,House Down Payment,property,12762000,619000,66,183984.85,Medium,active
+GOAL00029,USR00176,Stock Market Portfolio,investment,1950000,659500,15,86033.33,Medium,active
+GOAL00030,USR00168,Gadget / Laptop,technology,124000,31000,2,46500.0,Medium,active
+GOAL00031,USR00948,Child Education Fund,education,3025000,740500,121,18880.17,Medium,active
+GOAL00032,USR00225,Child Education Fund,education,2422000,97500,104,22350.96,Medium,active
+GOAL00033,USR00787,Festival Shopping Fund,lifestyle,29000,17500,1,11500.0,High,active
+GOAL00034,USR00842,Emergency Fund,savings,48000,36500,15,766.67,Low,active
+GOAL00035,USR00411,Wedding Fund,lifestyle,1764000,254000,8,188750.0,High,active
+GOAL00036,USR00936,Home Renovation,property,131000,23000,30,3600.0,Low,active
+GOAL00037,USR00323,International Vacation,travel,47000,22000,17,1470.59,Medium,active
+GOAL00038,USR00406,Startup Capital,business,1510000,366000,12,95333.33,Low,active
+GOAL00039,USR00470,New Car Purchase,vehicle,1296000,327500,16,60531.25,High,active
+GOAL00040,USR00253,Bike Purchase,vehicle,120000,38500,14,5821.43,Medium,active
+GOAL00041,USR00270,Bike Purchase,vehicle,708000,378500,10,32950.0,Medium,active
+GOAL00042,USR00920,Home Renovation,property,677000,550500,6,21083.33,Medium,active
+GOAL00043,USR00225,New Car Purchase,vehicle,1409000,681500,42,17321.43,Medium,active
+GOAL00044,USR00094,Festival Shopping Fund,lifestyle,7000,2000,4,1250.0,High,active
+GOAL00045,USR00113,New Car Purchase,vehicle,249000,3000,17,14470.59,Medium,active
+GOAL00046,USR00812,Child Education Fund,education,611000,484000,125,1016.0,Medium,active
+GOAL00047,USR00066,Retirement Corpus,retirement,9974000,861500,117,77884.62,Medium,active
+GOAL00048,USR00480,Stock Market Portfolio,investment,167000,51500,30,3850.0,High,active
+GOAL00049,USR00567,Medical Insurance Fund,healthcare,228000,85000,20,7150.0,Low,active
+GOAL00050,USR00697,Bike Purchase,vehicle,205000,54500,3,50166.67,High,active
+GOAL00051,USR00907,Stock Market Portfolio,investment,645000,454000,12,15916.67,Medium,active
+GOAL00052,USR00788,Child Education Fund,education,1180000,113000,62,17209.68,Medium,active
+GOAL00053,USR00301,Retirement Corpus,retirement,2461000,1151000,311,4212.22,High,active
+GOAL00054,USR00004,Bike Purchase,vehicle,185000,51500,15,8900.0,Low,active
+GOAL00055,USR00270,Stock Market Portfolio,investment,2467000,557500,31,61596.77,Medium,active
+GOAL00056,USR00520,Startup Capital,business,5779000,3717000,34,60647.06,High,active
+GOAL00057,USR00641,Wedding Fund,lifestyle,601000,37000,19,29684.21,Low,active
+GOAL00058,USR00520,Home Renovation,property,1161000,357000,17,47294.12,High,active
+GOAL00059,USR00383,Festival Shopping Fund,lifestyle,24000,5000,3,6333.33,High,active
+GOAL00060,USR00977,Festival Shopping Fund,lifestyle,78000,14500,3,21166.67,Low,active
+GOAL00061,USR00941,Emergency Fund,savings,359000,131000,15,15200.0,Medium,active
+GOAL00062,USR00501,Emergency Fund,savings,463000,79000,22,17454.55,High,active
+GOAL00063,USR00372,Startup Capital,business,2005000,271500,36,48152.78,Low,active
+GOAL00064,USR00827,Wedding Fund,lifestyle,1361000,225500,24,47312.5,High,active
+GOAL00065,USR00247,Startup Capital,business,3469000,156000,52,63711.54,Medium,active
+GOAL00066,USR00081,House Down Payment,property,2903000,1239500,35,47528.57,Medium,active
+GOAL00067,USR00836,House Down Payment,property,3135000,729500,100,24055.0,Low,active
+GOAL00068,USR00546,Festival Shopping Fund,lifestyle,64000,24500,2,19750.0,High,active
+GOAL00069,USR00676,Gadget / Laptop,technology,16000,3000,7,1857.14,Low,active
+GOAL00070,USR00170,Wedding Fund,lifestyle,548000,501000,20,2350.0,Medium,active
+GOAL00071,USR00622,Retirement Corpus,retirement,13902000,10369000,223,15843.05,Low,active
+GOAL00072,USR00952,Stock Market Portfolio,investment,1423000,501000,6,153666.67,Medium,active
+GOAL00073,USR00707,International Vacation,travel,1136000,175000,3,320333.33,Medium,active
+GOAL00074,USR00409,Child Education Fund,education,2865000,864500,161,12425.47,Medium,active
+GOAL00075,USR00449,Startup Capital,business,1357000,545000,33,24606.06,Medium,active
+GOAL00076,USR00124,International Vacation,travel,242000,157500,5,16900.0,High,active
+GOAL00077,USR00347,Emergency Fund,savings,206000,42000,11,14909.09,Medium,active
+GOAL00078,USR00236,Home Renovation,property,1258000,845000,31,13322.58,High,active
+GOAL00079,USR00073,Bike Purchase,vehicle,81000,33000,11,4363.64,Medium,active
+GOAL00080,USR00235,House Down Payment,property,1734000,192000,95,16231.58,Low,active
+GOAL00081,USR00881,Higher Education,education,591000,430500,14,11464.29,High,active
+GOAL00082,USR00244,Wedding Fund,lifestyle,109000,30500,24,3270.83,Medium,active
+GOAL00083,USR00220,Stock Market Portfolio,investment,716000,306000,32,12812.5,High,active
+GOAL00084,USR00958,Startup Capital,business,2587000,521000,39,52974.36,Medium,active
+GOAL00085,USR00485,International Vacation,travel,334000,212500,16,7593.75,Medium,active
+GOAL00086,USR00827,Retirement Corpus,retirement,8607000,2818500,202,28655.94,High,active
+GOAL00087,USR00100,Child Education Fund,education,734000,94500,172,3718.02,Medium,active
+GOAL00088,USR00434,Retirement Corpus,retirement,2738000,451000,236,9690.68,Medium,active
+GOAL00089,USR00747,Emergency Fund,savings,586000,240000,17,20352.94,Medium,active
+GOAL00090,USR00662,House Down Payment,property,1600000,537000,54,19685.19,High,active
+GOAL00091,USR00746,Higher Education,education,496000,125500,38,9750.0,Low,active
+GOAL00092,USR00112,International Vacation,travel,163000,62000,10,10100.0,High,active
+GOAL00093,USR00550,Gadget / Laptop,technology,220000,118000,6,17000.0,High,active
+GOAL00094,USR00188,Wedding Fund,lifestyle,2764000,1849000,11,83181.82,Medium,active
+GOAL00095,USR00896,Startup Capital,business,742000,571500,36,4736.11,High,active
+GOAL00096,USR00828,Medical Insurance Fund,healthcare,436000,112000,23,14086.96,Low,active
+GOAL00097,USR00101,Emergency Fund,savings,285000,23500,14,18678.57,Medium,active
+GOAL00098,USR00554,Medical Insurance Fund,healthcare,25000,9000,6,2666.67,High,active
+GOAL00099,USR00096,Startup Capital,business,1526000,624500,52,17336.54,Medium,active
+GOAL00100,USR00243,New Car Purchase,vehicle,5335000,1652000,48,76729.17,Medium,active
+GOAL00101,USR00493,International Vacation,travel,55000,13500,13,3192.31,Low,active
+GOAL00102,USR00925,Emergency Fund,savings,157000,36500,14,8607.14,High,active
+GOAL00103,USR00003,Retirement Corpus,retirement,13825000,4691500,324,28189.81,High,active
+GOAL00104,USR00803,Festival Shopping Fund,lifestyle,81000,32000,2,24500.0,Medium,active
+GOAL00105,USR00434,Bike Purchase,vehicle,81000,9500,15,4766.67,Low,active
+GOAL00106,USR00803,Stock Market Portfolio,investment,536000,269000,21,12714.29,Medium,active
+GOAL00107,USR00499,New Car Purchase,vehicle,564000,33500,32,16578.12,High,active
+GOAL00108,USR00223,Emergency Fund,savings,169000,6000,11,14818.18,Medium,active
+GOAL00109,USR00556,Emergency Fund,savings,466000,91000,15,25000.0,Medium,active
+GOAL00110,USR00059,Emergency Fund,savings,780000,69500,18,39472.22,Medium,active
+GOAL00111,USR00515,Startup Capital,business,1844000,1265500,19,30447.37,Low,active
+GOAL00112,USR00162,Emergency Fund,savings,526000,80500,11,40500.0,Low,active
+GOAL00113,USR00083,Medical Insurance Fund,healthcare,177000,47000,8,16250.0,High,active
+GOAL00114,USR00610,House Down Payment,property,5236000,3901000,63,21190.48,Medium,active
+GOAL00115,USR00241,Retirement Corpus,retirement,2962000,345500,339,7718.29,High,active
+GOAL00116,USR00912,Home Renovation,property,505000,100500,26,15557.69,High,active
+GOAL00117,USR00609,Emergency Fund,savings,577000,142000,23,18913.04,Medium,active
+GOAL00118,USR00430,Child Education Fund,education,634000,34500,104,5764.42,Medium,active
+GOAL00119,USR00536,Higher Education,education,476000,127000,37,9432.43,Low,active
+GOAL00120,USR00210,Child Education Fund,education,1086000,342000,116,6413.79,Medium,active
+GOAL00121,USR00245,Wedding Fund,lifestyle,409000,239500,29,5844.83,Medium,active
+GOAL00122,USR00688,Child Education Fund,education,1935000,798500,87,13063.22,High,active
+GOAL00123,USR00324,Startup Capital,business,1330000,107500,38,32171.05,Medium,active
+GOAL00124,USR00075,Emergency Fund,savings,329000,114500,6,35750.0,Medium,active
+GOAL00125,USR00577,House Down Payment,property,1284000,1103500,77,2344.16,High,active
+GOAL00126,USR00219,Stock Market Portfolio,investment,169000,19000,15,10000.0,High,active
+GOAL00127,USR00956,Higher Education,education,1542000,634500,12,75625.0,Low,active
+GOAL00128,USR00901,International Vacation,travel,194000,117500,7,10928.57,Medium,active
+GOAL00129,USR00162,Gadget / Laptop,technology,220000,41000,4,44750.0,Low,active
+GOAL00130,USR00721,Wedding Fund,lifestyle,208000,4000,9,22666.67,Medium,active
+GOAL00131,USR00827,Child Education Fund,education,951000,281500,177,3782.49,Medium,active
+GOAL00132,USR00684,Medical Insurance Fund,healthcare,148000,96500,12,4291.67,Medium,active
+GOAL00133,USR00955,Child Education Fund,education,319000,149000,59,2881.36,High,active
+GOAL00134,USR00900,New Car Purchase,vehicle,756000,50500,31,22758.06,High,active
+GOAL00135,USR00912,House Down Payment,property,3558000,2710500,74,11452.7,Medium,active
+GOAL00136,USR00160,Wedding Fund,lifestyle,502000,278000,13,17230.77,High,active
+GOAL00137,USR00216,Bike Purchase,vehicle,122000,45000,5,15400.0,Medium,active
+GOAL00138,USR00704,Child Education Fund,education,1028000,866500,47,3436.17,Low,active
+GOAL00139,USR00518,Gadget / Laptop,technology,141000,2500,3,46166.67,High,active
+GOAL00140,USR00930,Medical Insurance Fund,healthcare,168000,38500,15,8633.33,High,active
+GOAL00141,USR00650,Retirement Corpus,retirement,6176000,4650000,350,4360.0,Low,active
+GOAL00142,USR00046,Emergency Fund,savings,651000,200500,16,28156.25,Medium,active
+GOAL00143,USR00134,Child Education Fund,education,2933000,158000,158,17563.29,Low,active
+GOAL00144,USR00166,Bike Purchase,vehicle,331000,190000,3,47000.0,Medium,active
+GOAL00145,USR00723,Retirement Corpus,retirement,5798000,633000,292,17688.36,Medium,active
+GOAL00146,USR00115,House Down Payment,property,2354000,464000,37,51081.08,Low,active
+GOAL00147,USR00708,Startup Capital,business,670000,190000,16,30000.0,High,active
+GOAL00148,USR00037,Medical Insurance Fund,healthcare,207000,150000,21,2714.29,Medium,active
+GOAL00149,USR00566,New Car Purchase,vehicle,240000,153000,19,4578.95,Medium,active
+GOAL00150,USR00043,Wedding Fund,lifestyle,539000,134000,12,33750.0,Medium,active
+GOAL00151,USR00956,Festival Shopping Fund,lifestyle,85000,37000,1,48000.0,Low,active
+GOAL00152,USR00041,Startup Capital,business,1153000,263500,32,27796.88,Medium,active
+GOAL00153,USR00699,International Vacation,travel,100000,37500,8,7812.5,Medium,active
+GOAL00154,USR00363,Festival Shopping Fund,lifestyle,33000,10500,5,4500.0,Medium,active
+GOAL00155,USR00896,Retirement Corpus,retirement,4198000,2705500,220,6784.09,Low,active
+GOAL00156,USR00768,New Car Purchase,vehicle,943000,102500,49,17153.06,Low,active
+GOAL00157,USR00243,Medical Insurance Fund,healthcare,673000,401500,23,11804.35,High,active
+GOAL00158,USR00820,Festival Shopping Fund,lifestyle,61000,20500,2,20250.0,High,active
+GOAL00159,USR00423,Emergency Fund,savings,341000,105000,7,33714.29,High,active
+GOAL00160,USR00947,Higher Education,education,3484000,463500,19,158973.68,Medium,active
+GOAL00161,USR00422,Festival Shopping Fund,lifestyle,33000,3500,3,9833.33,Medium,active
+GOAL00162,USR00753,Festival Shopping Fund,lifestyle,34000,4000,2,15000.0,High,active
+GOAL00163,USR00164,Festival Shopping Fund,lifestyle,6000,1500,2,2250.0,Medium,active
+GOAL00164,USR00392,Medical Insurance Fund,healthcare,495000,103500,8,48937.5,High,active
+GOAL00165,USR00482,International Vacation,travel,74000,13500,6,10083.33,High,active
+GOAL00166,USR00941,Gadget / Laptop,technology,77000,49500,7,3928.57,Medium,active
+GOAL00167,USR00841,Festival Shopping Fund,lifestyle,5000,500,5,900.0,Low,active
+GOAL00168,USR00229,Emergency Fund,savings,388000,97500,13,22346.15,Medium,active
+GOAL00169,USR00409,Higher Education,education,473000,136000,35,9628.57,High,active
+GOAL00170,USR00072,Festival Shopping Fund,lifestyle,12000,500,3,3833.33,High,active
+GOAL00171,USR00657,Stock Market Portfolio,investment,170000,59500,7,15785.71,Medium,active
+GOAL00172,USR00864,Stock Market Portfolio,investment,724000,271000,34,13323.53,Medium,active
+GOAL00173,USR00029,House Down Payment,property,10209000,5271500,32,154296.88,Low,active
+GOAL00174,USR00268,New Car Purchase,vehicle,2462000,1114500,35,38500.0,Medium,active
+GOAL00175,USR00272,Emergency Fund,savings,566000,179000,7,55285.71,High,active
+GOAL00176,USR00445,Higher Education,education,588000,19000,28,20321.43,Medium,active
+GOAL00177,USR00322,Retirement Corpus,retirement,3986000,846000,339,9262.54,Medium,active
+GOAL00178,USR00524,House Down Payment,property,1690000,583500,56,19758.93,Medium,active
+GOAL00179,USR00591,International Vacation,travel,134000,21500,7,16071.43,High,active
+GOAL00180,USR00726,Retirement Corpus,retirement,31476000,16192500,144,106135.42,High,active
+GOAL00181,USR00948,Festival Shopping Fund,lifestyle,87000,4500,2,41250.0,Medium,active
+GOAL00182,USR00737,Bike Purchase,vehicle,273000,98000,12,14583.33,Medium,active
+GOAL00183,USR00202,Higher Education,education,1718000,857500,38,22644.74,Medium,active
+GOAL00184,USR00972,Child Education Fund,education,3012000,1919000,140,7807.14,Low,active
+GOAL00185,USR00639,Higher Education,education,888000,300000,33,17818.18,Medium,active
+GOAL00186,USR00128,Bike Purchase,vehicle,243000,92000,10,15100.0,Low,active
+GOAL00187,USR00520,Wedding Fund,lifestyle,3646000,799500,27,105425.93,Medium,active
+GOAL00188,USR00335,Retirement Corpus,retirement,14689000,1710000,258,50306.2,Medium,active
+GOAL00189,USR00568,New Car Purchase,vehicle,981000,310500,25,26820.0,High,active
+GOAL00190,USR00681,Retirement Corpus,retirement,21682000,4993000,145,115096.55,Medium,active
+GOAL00191,USR00925,New Car Purchase,vehicle,338000,95500,46,5271.74,Medium,active
+GOAL00192,USR00309,Retirement Corpus,retirement,2587000,984500,352,4552.56,Medium,active
+GOAL00193,USR00001,Wedding Fund,lifestyle,1374000,777500,31,19241.94,High,active
+GOAL00194,USR00441,Festival Shopping Fund,lifestyle,119000,41500,3,25833.33,Medium,active
+GOAL00195,USR00671,Higher Education,education,1889000,978000,20,45550.0,Medium,active
+GOAL00196,USR00453,Child Education Fund,education,1588000,554000,142,7281.69,High,active
+GOAL00197,USR00485,Festival Shopping Fund,lifestyle,111000,35500,2,37750.0,Low,active
+GOAL00198,USR00816,Bike Purchase,vehicle,187000,87500,15,6633.33,High,active
+GOAL00199,USR00087,Wedding Fund,lifestyle,2272000,451000,14,130071.43,Medium,active
+GOAL00200,USR00649,Home Renovation,property,67000,25000,11,3818.18,Medium,active
+GOAL00201,USR00839,Festival Shopping Fund,lifestyle,34000,17500,4,4125.0,High,active
+GOAL00202,USR00318,International Vacation,travel,48000,10000,15,2533.33,Low,active
+GOAL00203,USR00151,Emergency Fund,savings,989000,443000,8,68250.0,High,active
+GOAL00204,USR00487,Home Renovation,property,2094000,524500,35,44842.86,Low,active
+GOAL00205,USR00075,Gadget / Laptop,technology,47000,35000,5,2400.0,Medium,active
+GOAL00206,USR00645,Home Renovation,property,834000,310000,15,34933.33,High,active
+GOAL00207,USR00714,Retirement Corpus,retirement,3987000,1344000,213,12408.45,Medium,active
+GOAL00208,USR00250,New Car Purchase,vehicle,257000,167500,14,6392.86,Medium,active
+GOAL00209,USR00006,Startup Capital,business,4380000,840500,38,93144.74,Medium,active
+GOAL00210,USR00789,Startup Capital,business,3221000,1002000,37,59972.97,High,active
+GOAL00211,USR00436,International Vacation,travel,197000,28500,9,18722.22,High,active
+GOAL00212,USR00981,Bike Purchase,vehicle,76000,35500,6,6750.0,Medium,active
+GOAL00213,USR00052,Stock Market Portfolio,investment,44000,19000,35,714.29,High,active
+GOAL00214,USR00869,House Down Payment,property,10703000,956000,86,113337.21,Medium,active
+GOAL00215,USR00821,Gadget / Laptop,technology,64000,4000,1,60000.0,Medium,active
+GOAL00216,USR00573,Home Renovation,property,98000,10500,22,3977.27,Medium,active
+GOAL00217,USR00774,Startup Capital,business,10187000,1387500,16,549968.75,Medium,active
+GOAL00218,USR00835,Bike Purchase,vehicle,23000,8500,15,966.67,Low,active
+GOAL00219,USR00437,Medical Insurance Fund,healthcare,145000,57500,15,5833.33,Low,active
+GOAL00220,USR00457,Startup Capital,business,860000,96000,54,14148.15,High,active
+GOAL00221,USR00883,Gadget / Laptop,technology,50000,38500,4,2875.0,Medium,active
+GOAL00222,USR00770,International Vacation,travel,53000,20000,13,2538.46,Low,active
+GOAL00223,USR00284,Festival Shopping Fund,lifestyle,18000,7500,3,3500.0,Medium,active
+GOAL00224,USR00497,Child Education Fund,education,3463000,35500,79,43386.08,High,active
+GOAL00225,USR00451,House Down Payment,property,2187000,542000,43,38255.81,Medium,active
+GOAL00226,USR00241,Wedding Fund,lifestyle,272000,135500,31,4403.23,Medium,active
+GOAL00227,USR00915,Stock Market Portfolio,investment,342000,35500,33,9287.88,High,active
+GOAL00228,USR00155,International Vacation,travel,41000,9500,5,6300.0,Medium,active
+GOAL00229,USR00157,Bike Purchase,vehicle,159000,73000,3,28666.67,High,active
+GOAL00230,USR00425,Retirement Corpus,retirement,1606000,171000,236,6080.51,Medium,active
+GOAL00231,USR00478,Retirement Corpus,retirement,29881000,13840500,175,91660.0,High,active
+GOAL00232,USR00853,Retirement Corpus,retirement,7084000,3375000,198,18732.32,Medium,active
+GOAL00233,USR00789,Home Renovation,property,583000,246000,29,11620.69,Low,active
+GOAL00234,USR00021,Medical Insurance Fund,healthcare,79000,19500,14,4250.0,Low,active
+GOAL00235,USR00590,Retirement Corpus,retirement,15965000,2545500,336,39938.99,Medium,active
+GOAL00236,USR00966,Higher Education,education,264000,223000,32,1281.25,High,active
+GOAL00237,USR00400,Medical Insurance Fund,healthcare,120000,3500,14,8321.43,Low,active
+GOAL00238,USR00856,Retirement Corpus,retirement,21160000,12907500,295,27974.58,Medium,active
+GOAL00239,USR00753,Stock Market Portfolio,investment,1500000,448000,8,131500.0,Medium,active
+GOAL00240,USR00920,International Vacation,travel,273000,238000,17,2058.82,Medium,active
+GOAL00241,USR00280,Retirement Corpus,retirement,12093000,1992000,340,29708.82,Medium,active
+GOAL00242,USR00399,Higher Education,education,458000,204000,25,10160.0,Medium,active
+GOAL00243,USR00818,Retirement Corpus,retirement,4723000,783000,190,20736.84,Medium,active
+GOAL00244,USR00861,Gadget / Laptop,technology,8000,6000,8,250.0,Low,active
+GOAL00245,USR00638,Stock Market Portfolio,investment,136000,13500,20,6125.0,High,active
+GOAL00246,USR00404,Home Renovation,property,439000,65000,16,23375.0,Medium,active
+GOAL00247,USR00028,House Down Payment,property,4673000,2643500,36,56375.0,Medium,active
+GOAL00248,USR00139,Medical Insurance Fund,healthcare,18000,3000,12,1250.0,Medium,active
+GOAL00249,USR00052,Wedding Fund,lifestyle,333000,103500,28,8196.43,Medium,active
+GOAL00250,USR00217,Gadget / Laptop,technology,193000,52000,10,14100.0,Medium,active
+GOAL00251,USR00780,Startup Capital,business,968000,384500,25,23340.0,Medium,active
+GOAL00252,USR00771,Medical Insurance Fund,healthcare,243000,90500,9,16944.44,Medium,active
+GOAL00253,USR00855,House Down Payment,property,2060000,723500,84,15910.71,Medium,active
+GOAL00254,USR00768,Stock Market Portfolio,investment,640000,373000,9,29666.67,High,active
+GOAL00255,USR00975,Higher Education,education,102000,49500,19,2763.16,High,active
+GOAL00256,USR00071,Festival Shopping Fund,lifestyle,15000,7500,2,3750.0,Low,active
+GOAL00257,USR00042,Festival Shopping Fund,lifestyle,85000,42500,5,8500.0,High,active
+GOAL00258,USR00254,International Vacation,travel,43000,14500,6,4750.0,Low,active
+GOAL00259,USR00637,New Car Purchase,vehicle,3136000,1135000,24,83375.0,High,active
+GOAL00260,USR00485,Child Education Fund,education,5700000,3849500,107,17294.39,High,active
+GOAL00261,USR00971,International Vacation,travel,605000,204500,12,33375.0,Medium,active
+GOAL00262,USR00263,Festival Shopping Fund,lifestyle,9000,2000,5,1400.0,Medium,active
+GOAL00263,USR00621,Home Renovation,property,526000,198000,33,9939.39,Low,active
+GOAL00264,USR00736,House Down Payment,property,2790000,2417000,40,9325.0,Medium,active
+GOAL00265,USR00168,Wedding Fund,lifestyle,2002000,434500,33,47500.0,High,active
+GOAL00266,USR00027,Startup Capital,business,1381000,1006500,32,11703.12,Medium,active
+GOAL00267,USR00694,Startup Capital,business,1453000,222000,50,24620.0,Low,active
+GOAL00268,USR00407,Bike Purchase,vehicle,105000,29000,15,5066.67,High,active
+GOAL00269,USR00607,Bike Purchase,vehicle,58000,22500,13,2730.77,Low,active
+GOAL00270,USR00249,House Down Payment,property,541000,36000,59,8559.32,Medium,active
+GOAL00271,USR00309,Medical Insurance Fund,healthcare,32000,10000,5,4400.0,Medium,active
+GOAL00272,USR00825,House Down Payment,property,561000,206000,95,3736.84,Medium,active
+GOAL00273,USR00580,Festival Shopping Fund,lifestyle,82000,5500,4,19125.0,High,active
+GOAL00274,USR00546,Retirement Corpus,retirement,7387000,1655000,167,34323.35,Medium,active
+GOAL00275,USR00071,Stock Market Portfolio,investment,202000,107500,23,4108.7,Medium,active
+GOAL00276,USR00013,Medical Insurance Fund,healthcare,65000,19500,18,2527.78,Medium,active
+GOAL00277,USR00502,House Down Payment,property,12327000,3255500,40,226787.5,Medium,active
+GOAL00278,USR00371,Child Education Fund,education,2398000,173500,72,30895.83,Low,active
+GOAL00279,USR00471,Bike Purchase,vehicle,606000,62000,3,181333.33,High,active
+GOAL00280,USR00181,Bike Purchase,vehicle,150000,80000,16,4375.0,Medium,active
+GOAL00281,USR00667,Wedding Fund,lifestyle,477000,269000,20,10400.0,Medium,active
+GOAL00282,USR00942,Stock Market Portfolio,investment,193000,116500,18,4250.0,Medium,active
+GOAL00283,USR00477,Retirement Corpus,retirement,9438000,1940000,108,69425.93,Low,active
+GOAL00284,USR00607,Wedding Fund,lifestyle,206000,26000,15,12000.0,Medium,active
+GOAL00285,USR00252,Medical Insurance Fund,healthcare,199000,62500,16,8531.25,Low,active
+GOAL00286,USR00286,Startup Capital,business,597000,312000,57,5000.0,Medium,active
+GOAL00287,USR00769,Gadget / Laptop,technology,124000,32000,11,8363.64,Medium,active
+GOAL00288,USR00685,Retirement Corpus,retirement,26047000,1628500,304,80324.01,Medium,active
+GOAL00289,USR00507,Medical Insurance Fund,healthcare,171000,9000,18,9000.0,Medium,active
+GOAL00290,USR00500,International Vacation,travel,57000,25500,15,2100.0,Medium,active
+GOAL00291,USR00265,Higher Education,education,2202000,39000,24,90125.0,High,active
+GOAL00292,USR00611,Bike Purchase,vehicle,125000,14000,14,7928.57,Low,active
+GOAL00293,USR00570,Emergency Fund,savings,191000,101000,17,5294.12,Medium,active
+GOAL00294,USR00196,House Down Payment,property,2309000,1359500,62,15314.52,High,active
+GOAL00295,USR00417,Gadget / Laptop,technology,95000,21500,3,24500.0,Medium,active
+GOAL00296,USR00247,Bike Purchase,vehicle,108000,27500,14,5750.0,Medium,active
+GOAL00297,USR00729,Gadget / Laptop,technology,199000,31500,7,23928.57,Medium,active
+GOAL00298,USR00018,House Down Payment,property,6866000,5395000,62,23725.81,High,active
+GOAL00299,USR00415,Bike Purchase,vehicle,38000,3000,15,2333.33,High,active
+GOAL00300,USR00680,Home Renovation,property,1534000,577500,32,29890.62,Medium,active
+GOAL00301,USR00567,Stock Market Portfolio,investment,1502000,714000,35,22514.29,Medium,active
+GOAL00302,USR00764,Stock Market Portfolio,investment,730000,142000,28,21000.0,Medium,active
+GOAL00303,USR00720,Gadget / Laptop,technology,50000,30000,11,1818.18,High,active
+GOAL00304,USR00258,International Vacation,travel,194000,55000,16,8687.5,High,active
+GOAL00305,USR00198,Higher Education,education,588000,100500,26,18750.0,High,active
+GOAL00306,USR00549,Festival Shopping Fund,lifestyle,54000,22000,2,16000.0,Medium,active
+GOAL00307,USR00197,International Vacation,travel,234000,159500,10,7450.0,Medium,active
+GOAL00308,USR00284,Bike Purchase,vehicle,159000,60000,16,6187.5,Medium,active
+GOAL00309,USR00779,Stock Market Portfolio,investment,273000,66000,24,8625.0,Medium,active
+GOAL00310,USR00103,Medical Insurance Fund,healthcare,254000,188000,13,5076.92,High,active
+GOAL00311,USR00233,Higher Education,education,1880000,226500,38,43513.16,High,active
+GOAL00312,USR00015,Bike Purchase,vehicle,55000,23000,16,2000.0,Medium,active
+GOAL00313,USR00281,Emergency Fund,savings,212000,127000,22,3863.64,Low,active
+GOAL00314,USR00567,Wedding Fund,lifestyle,4613000,660500,21,188214.29,Medium,active
+GOAL00315,USR00130,Child Education Fund,education,3246000,471000,50,55500.0,Low,active
+GOAL00316,USR00503,House Down Payment,property,965000,27500,110,8522.73,Low,active
+GOAL00317,USR00588,Wedding Fund,lifestyle,396000,79000,21,15095.24,Medium,active
+GOAL00318,USR00452,Higher Education,education,2517000,836000,41,41000.0,High,active
+GOAL00319,USR00053,Wedding Fund,lifestyle,3864000,731500,8,391562.5,Low,active
+GOAL00320,USR00490,House Down Payment,property,16439000,2200500,40,355962.5,Low,active
+GOAL00321,USR00411,Gadget / Laptop,technology,360000,207500,3,50833.33,High,active
+GOAL00322,USR00645,Child Education Fund,education,7950000,2382500,71,78415.49,High,active
+GOAL00323,USR00153,Festival Shopping Fund,lifestyle,29000,4000,5,5000.0,Medium,active
+GOAL00324,USR00312,House Down Payment,property,4723000,905000,36,106055.56,Low,active
+GOAL00325,USR00122,Stock Market Portfolio,investment,170000,40000,29,4482.76,Medium,active
+GOAL00326,USR00621,Home Renovation,property,398000,293000,13,8076.92,Medium,active
+GOAL00327,USR00232,Festival Shopping Fund,lifestyle,20000,7000,5,2600.0,Medium,active
+GOAL00328,USR00462,Startup Capital,business,1564000,49500,47,32223.4,Medium,active
+GOAL00329,USR00881,Home Renovation,property,302000,86500,25,8620.0,Low,active
+GOAL00330,USR00313,Home Renovation,property,74000,14500,18,3305.56,Medium,active
+GOAL00331,USR00625,Bike Purchase,vehicle,518000,137000,7,54428.57,High,active
+GOAL00332,USR00782,International Vacation,travel,327000,8000,9,35444.44,Medium,active
+GOAL00333,USR00271,Child Education Fund,education,305000,159500,141,1031.91,High,active
+GOAL00334,USR00246,New Car Purchase,vehicle,4834000,3258500,59,26703.39,Medium,active
+GOAL00335,USR00161,Emergency Fund,savings,111000,11000,10,10000.0,Medium,active
+GOAL00336,USR00706,Home Renovation,property,1071000,399500,35,19185.71,Medium,active
+GOAL00337,USR00034,International Vacation,travel,376000,52500,13,24884.62,High,active
+GOAL00338,USR00290,Bike Purchase,vehicle,589000,48500,14,38607.14,Low,active
+GOAL00339,USR00073,Child Education Fund,education,350000,74500,176,1565.34,High,active
+GOAL00340,USR00271,Festival Shopping Fund,lifestyle,5000,500,2,2250.0,Medium,active
+GOAL00341,USR00604,Child Education Fund,education,1292000,87500,59,20415.25,Low,active
+GOAL00342,USR00203,Retirement Corpus,retirement,5134000,1601500,193,18303.11,High,active
+GOAL00343,USR00231,Child Education Fund,education,1373000,448000,150,6166.67,High,active
+GOAL00344,USR00273,Medical Insurance Fund,healthcare,60000,50500,16,593.75,High,active
+GOAL00345,USR00062,New Car Purchase,vehicle,1615000,469000,35,32742.86,Medium,active
+GOAL00346,USR00610,Bike Purchase,vehicle,231000,7500,13,17192.31,Low,active
+GOAL00347,USR00944,Wedding Fund,lifestyle,4550000,2340500,26,84980.77,Medium,active
+GOAL00348,USR00480,Bike Purchase,vehicle,45000,3000,6,7000.0,Medium,active
+GOAL00349,USR00413,Wedding Fund,lifestyle,512000,48500,15,30900.0,Medium,active
+GOAL00350,USR00506,Gadget / Laptop,technology,425000,51500,11,33954.55,High,active
+GOAL00351,USR00041,Startup Capital,business,1543000,341000,57,21087.72,Medium,active
+GOAL00352,USR00331,Home Renovation,property,203000,70500,24,5520.83,High,active
+GOAL00353,USR00094,International Vacation,travel,37000,3000,16,2125.0,Low,active
+GOAL00354,USR00857,Medical Insurance Fund,healthcare,81000,25000,23,2434.78,Medium,active
+GOAL00355,USR00974,Emergency Fund,savings,1035000,360500,9,74944.44,Low,active
+GOAL00356,USR00689,Medical Insurance Fund,healthcare,105000,6000,20,4950.0,High,active
+GOAL00357,USR00042,Festival Shopping Fund,lifestyle,46000,28000,2,9000.0,Medium,active
+GOAL00358,USR00482,Stock Market Portfolio,investment,436000,105000,8,41375.0,Medium,active
+GOAL00359,USR00939,Wedding Fund,lifestyle,842000,316000,11,47818.18,High,active
+GOAL00360,USR00600,Retirement Corpus,retirement,14387000,5935000,94,89914.89,Medium,active
+GOAL00361,USR00504,House Down Payment,property,2984000,350000,76,34657.89,Medium,active
+GOAL00362,USR00419,Higher Education,education,2801000,37500,30,92116.67,Medium,active
+GOAL00363,USR00108,Medical Insurance Fund,healthcare,129000,55500,19,3868.42,High,active
+GOAL00364,USR00422,Bike Purchase,vehicle,171000,58000,15,7533.33,Medium,active
+GOAL00365,USR00679,Retirement Corpus,retirement,21472000,9266500,157,77742.04,Low,active
+GOAL00366,USR00564,Emergency Fund,savings,897000,228500,6,111416.67,Medium,active
+GOAL00367,USR00323,Wedding Fund,lifestyle,567000,97500,22,21340.91,Medium,active
+GOAL00368,USR00994,Festival Shopping Fund,lifestyle,8000,4500,1,3500.0,Medium,active
+GOAL00369,USR00527,Medical Insurance Fund,healthcare,128000,18000,19,5789.47,Low,active
+GOAL00370,USR00674,Medical Insurance Fund,healthcare,41000,22500,13,1423.08,Medium,active
+GOAL00371,USR00424,Emergency Fund,savings,172000,35000,13,10538.46,High,active
+GOAL00372,USR00371,Home Renovation,property,485000,78500,31,13112.9,Medium,active
+GOAL00373,USR00641,Gadget / Laptop,technology,35000,9500,6,4250.0,Medium,active
+GOAL00374,USR00209,Wedding Fund,lifestyle,1671000,89500,26,60826.92,Medium,active
+GOAL00375,USR00950,Wedding Fund,lifestyle,3194000,972000,18,123444.44,Medium,active
+GOAL00376,USR00716,Gadget / Laptop,technology,81000,31000,4,12500.0,High,active
+GOAL00377,USR00997,Child Education Fund,education,3182000,188500,88,34017.05,Medium,active
+GOAL00378,USR00246,Bike Purchase,vehicle,526000,144000,13,29384.62,High,active
+GOAL00379,USR00565,Emergency Fund,savings,273000,23000,10,25000.0,Medium,active
+GOAL00380,USR00096,International Vacation,travel,230000,19500,3,70166.67,Low,active
+GOAL00381,USR00935,House Down Payment,property,3169000,1134500,55,36990.91,Medium,active
+GOAL00382,USR00121,Child Education Fund,education,1841000,693000,37,31027.03,Low,active
+GOAL00383,USR00511,Startup Capital,business,2043000,649000,47,29659.57,Medium,active
+GOAL00384,USR00522,Bike Purchase,vehicle,409000,30500,15,25233.33,High,active
+GOAL00385,USR00855,Gadget / Laptop,technology,17000,9000,4,2000.0,Low,active
+GOAL00386,USR00250,Gadget / Laptop,technology,24000,3000,8,2625.0,Medium,active
+GOAL00387,USR00393,International Vacation,travel,174000,68000,9,11777.78,Low,active
+GOAL00388,USR00521,Bike Purchase,vehicle,666000,297500,6,61416.67,Low,active
+GOAL00389,USR00885,House Down Payment,property,4224000,1783000,59,41372.88,High,active
+GOAL00390,USR00809,Medical Insurance Fund,healthcare,88000,33000,13,4230.77,Medium,active
+GOAL00391,USR00957,Festival Shopping Fund,lifestyle,84000,26000,1,58000.0,Medium,active
+GOAL00392,USR00841,Emergency Fund,savings,38000,7500,8,3812.5,High,active
+GOAL00393,USR00306,Medical Insurance Fund,healthcare,77000,35500,10,4150.0,Medium,active
+GOAL00394,USR00676,Gadget / Laptop,technology,15000,2000,7,1857.14,Low,active
+GOAL00395,USR00458,Stock Market Portfolio,investment,257000,133500,9,13722.22,Medium,active
+GOAL00396,USR00341,Stock Market Portfolio,investment,381000,126500,23,11065.22,Medium,active
+GOAL00397,USR00387,Gadget / Laptop,technology,28000,9000,10,1900.0,Low,active
+GOAL00398,USR00891,International Vacation,travel,96000,29500,4,16625.0,Low,active
+GOAL00399,USR00245,Home Renovation,property,78000,68500,9,1055.56,Medium,active
+GOAL00400,USR00877,Festival Shopping Fund,lifestyle,57000,9000,4,12000.0,Medium,active
+GOAL00401,USR00326,Bike Purchase,vehicle,130000,85000,10,4500.0,Medium,active
+GOAL00402,USR00936,Festival Shopping Fund,lifestyle,24000,8000,2,8000.0,Medium,active
+GOAL00403,USR00680,Festival Shopping Fund,lifestyle,88000,51000,2,18500.0,Low,active
+GOAL00404,USR00156,Gadget / Laptop,technology,27000,3500,7,3357.14,Low,active
+GOAL00405,USR00130,Stock Market Portfolio,investment,212000,67500,19,7605.26,Low,active
+GOAL00406,USR00340,Medical Insurance Fund,healthcare,176000,54500,14,8678.57,High,active
+GOAL00407,USR00866,Gadget / Laptop,technology,84000,11500,1,72500.0,High,active
+GOAL00408,USR00933,Gadget / Laptop,technology,49000,2500,1,46500.0,High,active
+GOAL00409,USR00148,Retirement Corpus,retirement,12023000,3940000,208,38860.58,Low,active
+GOAL00410,USR00994,New Car Purchase,vehicle,254000,14500,54,4435.19,High,active
+GOAL00411,USR00801,Wedding Fund,lifestyle,1504000,690000,24,33916.67,Medium,active
+GOAL00412,USR00710,Retirement Corpus,retirement,13067000,239500,72,178159.72,Medium,active
+GOAL00413,USR00873,Higher Education,education,1761000,954000,22,36681.82,Low,active
+GOAL00414,USR00880,Stock Market Portfolio,investment,208000,66000,23,6173.91,Medium,active
+GOAL00415,USR00325,Child Education Fund,education,1459000,443500,120,8462.5,Medium,active
+GOAL00416,USR00778,Gadget / Laptop,technology,104000,92500,11,1045.45,Low,active
+GOAL00417,USR00037,Home Renovation,property,546000,169500,15,25100.0,High,active
+GOAL00418,USR00647,Child Education Fund,education,387000,164000,152,1467.11,Low,active
+GOAL00419,USR00233,Bike Purchase,vehicle,381000,90000,17,17117.65,High,active
+GOAL00420,USR00101,Festival Shopping Fund,lifestyle,18000,6500,2,5750.0,Medium,active
+GOAL00421,USR00894,House Down Payment,property,6224000,1301500,97,50747.42,Medium,active
+GOAL00422,USR00711,Wedding Fund,lifestyle,679000,198000,18,26722.22,Low,active
+GOAL00423,USR00048,Higher Education,education,1912000,185000,45,38377.78,Medium,active
+GOAL00424,USR00301,Higher Education,education,411000,220500,36,5291.67,Medium,active
+GOAL00425,USR00150,International Vacation,travel,93000,40000,15,3533.33,Medium,active
+GOAL00426,USR00580,Child Education Fund,education,3810000,1642500,160,13546.88,Medium,active
+GOAL00427,USR00175,New Car Purchase,vehicle,2743000,864000,24,78291.67,High,active
+GOAL00428,USR00892,Retirement Corpus,retirement,20716000,8589500,73,166116.44,Medium,active
+GOAL00429,USR00247,Gadget / Laptop,technology,48000,17000,6,5166.67,Low,active
+GOAL00430,USR00147,International Vacation,travel,372000,34000,4,84500.0,Medium,active
+GOAL00431,USR00261,Gadget / Laptop,technology,166000,13500,6,25416.67,High,active
+GOAL00432,USR00010,Startup Capital,business,460000,73500,56,6901.79,Low,active
+GOAL00433,USR00923,Wedding Fund,lifestyle,879000,808500,28,2517.86,Medium,active
+GOAL00434,USR00162,House Down Payment,property,10097000,3543000,97,67567.01,Medium,active
+GOAL00435,USR00354,Home Renovation,property,272000,195500,20,3825.0,High,active
+GOAL00436,USR00986,Retirement Corpus,retirement,6306000,1379500,156,31580.13,Medium,active
+GOAL00437,USR00468,Medical Insurance Fund,healthcare,129000,14500,10,11450.0,Medium,active
+GOAL00438,USR00394,Medical Insurance Fund,healthcare,98000,18500,13,6115.38,Medium,active
+GOAL00439,USR00243,Retirement Corpus,retirement,32737000,4140500,344,83129.36,Medium,active
+GOAL00440,USR00589,Wedding Fund,lifestyle,864000,85500,22,35386.36,Low,active
+GOAL00441,USR00303,Emergency Fund,savings,746000,487500,22,11750.0,Low,active
+GOAL00442,USR00675,Retirement Corpus,retirement,25305000,368500,308,80962.66,High,active
+GOAL00443,USR00580,Medical Insurance Fund,healthcare,251000,142500,10,10850.0,Medium,active
+GOAL00444,USR00763,Emergency Fund,savings,76000,36000,9,4444.44,Low,active
+GOAL00445,USR00764,Gadget / Laptop,technology,202000,76000,10,12600.0,Low,active
+GOAL00446,USR00925,Wedding Fund,lifestyle,454000,39000,34,12205.88,Medium,active
+GOAL00447,USR00236,Home Renovation,property,327000,176000,24,6291.67,Low,active
+GOAL00448,USR00225,Child Education Fund,education,4209000,614500,130,27650.0,High,active
+GOAL00449,USR00257,Child Education Fund,education,3354000,237000,160,19481.25,Medium,active
+GOAL00450,USR00786,Child Education Fund,education,2213000,482000,42,41214.29,Medium,active
+GOAL00451,USR00141,Child Education Fund,education,5376000,995500,144,30420.14,High,active
+GOAL00452,USR00643,Child Education Fund,education,9940000,2832000,121,58743.8,High,active
+GOAL00453,USR00808,Gadget / Laptop,technology,35000,5000,1,30000.0,High,active
+GOAL00454,USR00374,Bike Purchase,vehicle,278000,51500,17,13323.53,High,active
+GOAL00455,USR00932,Wedding Fund,lifestyle,1823000,650000,32,36656.25,Medium,active
+GOAL00456,USR00426,New Car Purchase,vehicle,803000,742500,30,2016.67,High,active
+GOAL00457,USR00806,Stock Market Portfolio,investment,1310000,382000,35,26514.29,Low,active
+GOAL00458,USR00375,Stock Market Portfolio,investment,1608000,731500,6,146083.33,Medium,active
+GOAL00459,USR00280,Medical Insurance Fund,healthcare,115000,37500,18,4305.56,High,active
+GOAL00460,USR00936,Medical Insurance Fund,healthcare,83000,68500,5,2900.0,Low,active
+GOAL00461,USR00991,Festival Shopping Fund,lifestyle,48000,35000,5,2600.0,High,active
+GOAL00462,USR00892,Higher Education,education,1258000,231000,16,64187.5,Low,active
+GOAL00463,USR00480,House Down Payment,property,1385000,523000,32,26937.5,High,active
+GOAL00464,USR00990,International Vacation,travel,63000,6500,9,6277.78,Low,active
+GOAL00465,USR00742,Child Education Fund,education,2618000,648000,92,21413.04,Low,active
+GOAL00466,USR00991,Medical Insurance Fund,healthcare,68000,39500,11,2590.91,Low,active
+GOAL00467,USR00375,House Down Payment,property,10886000,1716500,112,81870.54,Medium,active
+GOAL00468,USR00015,Wedding Fund,lifestyle,835000,188500,30,21550.0,Medium,active
+GOAL00469,USR00466,Higher Education,education,4088000,2765000,44,30068.18,Medium,active
+GOAL00470,USR00689,Wedding Fund,lifestyle,488000,196000,23,12695.65,Medium,active
+GOAL00471,USR00843,Child Education Fund,education,3679000,248000,52,65980.77,Low,active
+GOAL00472,USR00111,Child Education Fund,education,1572000,370000,90,13355.56,High,active
+GOAL00473,USR00026,Home Renovation,property,752000,377000,16,23437.5,Low,active
+GOAL00474,USR00575,Higher Education,education,172000,99500,38,1907.89,Low,active
+GOAL00475,USR00227,Child Education Fund,education,359000,114500,87,2810.34,High,active
+GOAL00476,USR00844,Gadget / Laptop,technology,241000,165000,7,10857.14,Low,active
+GOAL00477,USR00310,Child Education Fund,education,162000,11000,139,1086.33,Medium,active
+GOAL00478,USR00144,Emergency Fund,savings,227000,25500,16,12593.75,Low,active
+GOAL00479,USR00312,Gadget / Laptop,technology,163000,25500,1,137500.0,High,active
+GOAL00480,USR00241,Startup Capital,business,1082000,738500,28,12267.86,Medium,active
+GOAL00481,USR00398,Gadget / Laptop,technology,58000,10500,2,23750.0,Medium,active
+GOAL00482,USR00973,Bike Purchase,vehicle,78000,43500,17,2029.41,Medium,active
+GOAL00483,USR00554,Retirement Corpus,retirement,1440000,627500,261,3113.03,Medium,active
+GOAL00484,USR00745,New Car Purchase,vehicle,2747000,1530000,37,32891.89,Low,active
+GOAL00485,USR00671,House Down Payment,property,4113000,1927500,52,42028.85,Low,active
+GOAL00486,USR00631,Retirement Corpus,retirement,32057000,12285000,134,147552.24,Low,active
+GOAL00487,USR00287,Emergency Fund,savings,1102000,319000,18,43500.0,Medium,active
+GOAL00488,USR00223,Gadget / Laptop,technology,29000,9500,5,3900.0,Medium,active
+GOAL00489,USR00242,Medical Insurance Fund,healthcare,49000,17000,14,2285.71,Medium,active
+GOAL00490,USR00703,Higher Education,education,2327000,47000,21,108571.43,Medium,active
+GOAL00491,USR00661,Higher Education,education,107000,22000,29,2931.03,High,active
+GOAL00492,USR00283,International Vacation,travel,69000,10000,14,4214.29,Low,active
+GOAL00493,USR00972,Medical Insurance Fund,healthcare,150000,70500,14,5678.57,Low,active
+GOAL00494,USR00094,Child Education Fund,education,379000,164500,129,1662.79,High,active
+GOAL00495,USR00655,Home Renovation,property,555000,205500,30,11650.0,Low,active
+GOAL00496,USR00052,Festival Shopping Fund,lifestyle,9000,500,5,1700.0,Medium,active
+GOAL00497,USR00129,Festival Shopping Fund,lifestyle,20000,1000,3,6333.33,Medium,active
+GOAL00498,USR00071,Medical Insurance Fund,healthcare,39000,11500,5,5500.0,Medium,active
+GOAL00499,USR00213,Home Renovation,property,764000,470000,27,10888.89,High,active
+GOAL00500,USR00891,International Vacation,travel,203000,28500,4,43625.0,Medium,active
+GOAL00501,USR00152,Festival Shopping Fund,lifestyle,85000,1500,4,20875.0,Low,active
+GOAL00502,USR00003,Wedding Fund,lifestyle,965000,420000,9,60555.56,Low,active
+GOAL00503,USR00149,New Car Purchase,vehicle,1514000,801500,34,20955.88,Medium,active
+GOAL00504,USR00818,New Car Purchase,vehicle,509000,286500,38,5855.26,High,active
+GOAL00505,USR00888,Emergency Fund,savings,1524000,769000,7,107857.14,High,active
+GOAL00506,USR00367,Festival Shopping Fund,lifestyle,85000,31500,3,17833.33,Medium,active
+GOAL00507,USR00603,Higher Education,education,775000,603000,29,5931.03,High,active
+GOAL00508,USR00272,Emergency Fund,savings,486000,246000,10,24000.0,High,active
+GOAL00509,USR00432,Stock Market Portfolio,investment,582000,227500,8,44312.5,High,active
+GOAL00510,USR00066,Gadget / Laptop,technology,136000,48000,9,9777.78,Medium,active
+GOAL00511,USR00371,Stock Market Portfolio,investment,1135000,381500,6,125583.33,Medium,active
+GOAL00512,USR00463,Stock Market Portfolio,investment,1747000,1139500,19,31973.68,High,active
+GOAL00513,USR00630,Emergency Fund,savings,528000,39000,19,25736.84,Medium,active
+GOAL00514,USR00931,Medical Insurance Fund,healthcare,72000,16000,16,3500.0,Medium,active
+GOAL00515,USR00309,Gadget / Laptop,technology,9000,6000,4,750.0,Medium,active
+GOAL00516,USR00032,Emergency Fund,savings,116000,15000,15,6733.33,Low,active
+GOAL00517,USR00868,Retirement Corpus,retirement,10746000,6273000,253,17679.84,Medium,active
+GOAL00518,USR00111,Gadget / Laptop,technology,58000,18500,7,5642.86,Medium,active
+GOAL00519,USR00455,House Down Payment,property,16961000,3569500,70,191307.14,Low,active
+GOAL00520,USR00330,Home Renovation,property,1035000,175500,17,50558.82,High,active
+GOAL00521,USR00130,Wedding Fund,lifestyle,1089000,578500,15,34033.33,Medium,active
+GOAL00522,USR00600,Stock Market Portfolio,investment,1408000,477000,10,93100.0,Medium,active
+GOAL00523,USR00391,Home Renovation,property,132000,38000,13,7230.77,Medium,active
+GOAL00524,USR00465,Stock Market Portfolio,investment,865000,432500,26,16634.62,Medium,active
+GOAL00525,USR00102,Festival Shopping Fund,lifestyle,50000,8000,4,10500.0,Medium,active
+GOAL00526,USR00874,Child Education Fund,education,1298000,169000,37,30513.51,Medium,active
+GOAL00527,USR00788,Stock Market Portfolio,investment,472000,115500,6,59416.67,Medium,active
+GOAL00528,USR00221,Retirement Corpus,retirement,32006000,6335500,347,73978.39,Medium,active
+GOAL00529,USR00234,Retirement Corpus,retirement,21585000,7343500,264,53945.08,Medium,active
+GOAL00530,USR00465,Retirement Corpus,retirement,16307000,3249000,334,39095.81,Medium,active
+GOAL00531,USR00098,Higher Education,education,1392000,187000,21,57380.95,Medium,active
+GOAL00532,USR00682,Wedding Fund,lifestyle,209000,43000,20,8300.0,Medium,active
+GOAL00533,USR00157,Child Education Fund,education,1530000,625000,153,5915.03,Low,active
+GOAL00534,USR00069,House Down Payment,property,1155000,388000,50,15340.0,Low,active
+GOAL00535,USR00096,Retirement Corpus,retirement,18886000,13044000,102,57274.51,High,active
+GOAL00536,USR00757,Higher Education,education,397000,131500,23,11543.48,Low,active
+GOAL00537,USR00570,Emergency Fund,savings,160000,109000,11,4636.36,Medium,active
+GOAL00538,USR00576,Stock Market Portfolio,investment,257000,84000,28,6178.57,Medium,active
+GOAL00539,USR00126,Retirement Corpus,retirement,24054000,15520500,218,39144.5,Medium,active
+GOAL00540,USR00682,Festival Shopping Fund,lifestyle,5000,3000,2,1000.0,Medium,active
+GOAL00541,USR00938,Bike Purchase,vehicle,320000,179000,9,15666.67,High,active
+GOAL00542,USR00295,Home Renovation,property,1688000,405500,10,128250.0,Medium,active
+GOAL00543,USR00107,Home Renovation,property,85000,32000,15,3533.33,Medium,active
+GOAL00544,USR00159,Child Education Fund,education,1455000,321500,52,21798.08,Medium,active
+GOAL00545,USR00868,House Down Payment,property,5514000,2659500,70,40778.57,Medium,active
+GOAL00546,USR00570,Higher Education,education,511000,161500,15,23300.0,High,active
+GOAL00547,USR00286,Home Renovation,property,204000,73500,10,13050.0,High,active
+GOAL00548,USR00440,Medical Insurance Fund,healthcare,57000,41500,8,1937.5,Medium,active
+GOAL00549,USR00786,Medical Insurance Fund,healthcare,305000,23500,14,20107.14,Medium,active
+GOAL00550,USR00692,Child Education Fund,education,2905000,272500,136,19356.62,Medium,active
+GOAL00551,USR00624,Startup Capital,business,1399000,832000,51,11117.65,Medium,active
+GOAL00552,USR00711,Wedding Fund,lifestyle,2171000,1508000,28,23678.57,High,active
+GOAL00553,USR00280,Bike Purchase,vehicle,188000,110000,5,15600.0,Medium,active
+GOAL00554,USR00944,Higher Education,education,3148000,1151500,18,110916.67,Medium,active
+GOAL00555,USR00186,Medical Insurance Fund,healthcare,43000,12500,8,3812.5,High,active
+GOAL00556,USR00674,Retirement Corpus,retirement,2067000,266500,150,12003.33,High,active
+GOAL00557,USR00759,Child Education Fund,education,1512000,517000,167,5958.08,Low,active
+GOAL00558,USR00094,Bike Purchase,vehicle,44000,20500,7,3357.14,Medium,active
+GOAL00559,USR00386,Retirement Corpus,retirement,24191000,5371000,221,85158.37,Medium,active
+GOAL00560,USR00162,Higher Education,education,651000,143500,15,33833.33,Medium,active
+GOAL00561,USR00333,Festival Shopping Fund,lifestyle,54000,39500,1,14500.0,Low,active
+GOAL00562,USR00611,House Down Payment,property,3683000,1437500,30,74850.0,Low,active
+GOAL00563,USR00160,New Car Purchase,vehicle,473000,70000,31,13000.0,Medium,active
+GOAL00564,USR00051,Child Education Fund,education,2372000,225500,53,40500.0,High,active
+GOAL00565,USR00454,Child Education Fund,education,6772000,1801000,34,146205.88,Medium,active
+GOAL00566,USR00622,Gadget / Laptop,technology,180000,24500,8,19437.5,Medium,active
+GOAL00567,USR00221,Festival Shopping Fund,lifestyle,56000,27500,1,28500.0,Medium,active
+GOAL00568,USR00354,Retirement Corpus,retirement,3065000,233000,320,8850.0,High,active
+GOAL00569,USR00695,Child Education Fund,education,3831000,1788000,46,44413.04,Medium,active
+GOAL00570,USR00540,Child Education Fund,education,3621000,301500,158,21009.49,Medium,active
+GOAL00571,USR00226,Retirement Corpus,retirement,3210000,1141500,229,9032.75,Low,active
+GOAL00572,USR00057,Emergency Fund,savings,326000,139000,8,23375.0,High,active
+GOAL00573,USR00969,International Vacation,travel,163000,75000,17,5176.47,Medium,active
+GOAL00574,USR00783,Wedding Fund,lifestyle,85000,62000,8,2875.0,High,active
+GOAL00575,USR00123,Emergency Fund,savings,135000,34000,15,6733.33,Medium,active
+GOAL00576,USR00441,New Car Purchase,vehicle,2481000,1200000,50,25620.0,High,active
+GOAL00577,USR00546,Bike Purchase,vehicle,142000,9500,4,33125.0,High,active
+GOAL00578,USR00573,Medical Insurance Fund,healthcare,61000,23500,13,2884.62,Medium,active
+GOAL00579,USR00363,House Down Payment,property,3081000,214500,99,28954.55,Medium,active
+GOAL00580,USR00760,Emergency Fund,savings,266000,90000,11,16000.0,Medium,active
+GOAL00581,USR00471,Startup Capital,business,7138000,1361000,44,131295.45,High,active
+GOAL00582,USR00321,Home Renovation,property,164000,19500,7,20642.86,Medium,active
+GOAL00583,USR00415,Bike Purchase,vehicle,67000,19500,3,15833.33,Medium,active
+GOAL00584,USR00297,House Down Payment,property,12797000,643500,45,270077.78,Medium,active
+GOAL00585,USR00990,Higher Education,education,496000,99500,18,22027.78,High,active
+GOAL00586,USR00971,Home Renovation,property,514000,232500,20,14075.0,Medium,active
+GOAL00587,USR00707,Startup Capital,business,9435000,907000,18,473777.78,Medium,active
+GOAL00588,USR00448,Medical Insurance Fund,healthcare,83000,41000,11,3818.18,High,active
+GOAL00589,USR00447,Home Renovation,property,658000,332000,31,10516.13,Medium,active
+GOAL00590,USR00081,Retirement Corpus,retirement,8732000,1860000,203,33852.22,Low,active
+GOAL00591,USR00764,Higher Education,education,1890000,744500,23,49804.35,High,active
+GOAL00592,USR00798,New Car Purchase,vehicle,816000,270500,15,36366.67,High,active
+GOAL00593,USR00649,House Down Payment,property,777000,419000,55,6509.09,Medium,active
+GOAL00594,USR00199,Startup Capital,business,832000,288500,12,45291.67,Medium,active
+GOAL00595,USR00360,Bike Purchase,vehicle,375000,74500,10,30050.0,Low,active
+GOAL00596,USR00661,Medical Insurance Fund,healthcare,24000,6500,8,2187.5,High,active
+GOAL00597,USR00106,New Car Purchase,vehicle,718000,108000,29,21034.48,High,active
+GOAL00598,USR00178,Home Renovation,property,276000,110000,10,16600.0,High,active
+GOAL00599,USR00778,Child Education Fund,education,3480000,556500,70,41764.29,High,active
+GOAL00600,USR00975,Festival Shopping Fund,lifestyle,5000,1500,2,1750.0,Medium,active
+GOAL00601,USR00476,Festival Shopping Fund,lifestyle,26000,8500,3,5833.33,Medium,active
+GOAL00602,USR00594,Gadget / Laptop,technology,5000,2000,8,375.0,Medium,active
+GOAL00603,USR00904,Home Renovation,property,419000,174500,25,9780.0,Medium,active
+GOAL00604,USR00640,Higher Education,education,96000,15500,44,1829.55,Low,active
+GOAL00605,USR00643,Higher Education,education,1742000,932500,43,18825.58,High,active
+GOAL00606,USR00070,Gadget / Laptop,technology,130000,65000,2,32500.0,Medium,active
+GOAL00607,USR00311,Festival Shopping Fund,lifestyle,64000,22000,3,14000.0,High,active
+GOAL00608,USR00058,Higher Education,education,186000,122000,42,1523.81,Medium,active
+GOAL00609,USR00318,Gadget / Laptop,technology,9000,3500,6,916.67,Medium,active
+GOAL00610,USR00059,Higher Education,education,1917000,663500,30,41783.33,Low,active
+GOAL00611,USR00079,Child Education Fund,education,466000,227500,41,5817.07,Low,active
+GOAL00612,USR00876,House Down Payment,property,7615000,3947000,62,59161.29,Medium,active
+GOAL00613,USR00520,Retirement Corpus,retirement,14865000,2810500,284,42445.42,Medium,active
+GOAL00614,USR00568,Festival Shopping Fund,lifestyle,67000,19000,1,48000.0,Medium,active
+GOAL00615,USR00043,Gadget / Laptop,technology,65000,26000,2,19500.0,Low,active
+GOAL00616,USR00586,Child Education Fund,education,1522000,401500,76,14743.42,High,active
+GOAL00617,USR00620,Gadget / Laptop,technology,87000,18500,4,17125.0,Medium,active
+GOAL00618,USR00981,Emergency Fund,savings,349000,102000,22,11227.27,Medium,active
+GOAL00619,USR00831,Startup Capital,business,1042000,189500,30,28416.67,Low,active
+GOAL00620,USR00732,House Down Payment,property,5882000,2717000,52,60865.38,Medium,active
+GOAL00621,USR00177,Emergency Fund,savings,366000,119000,9,27444.44,High,active
+GOAL00622,USR00449,Gadget / Laptop,technology,82000,41000,11,3727.27,Medium,active
+GOAL00623,USR00625,New Car Purchase,vehicle,2046000,555000,41,36365.85,Medium,active
+GOAL00624,USR00940,Wedding Fund,lifestyle,639000,145500,20,24675.0,Medium,active
+GOAL00625,USR00794,Higher Education,education,1868000,1031000,44,19022.73,Medium,active
+GOAL00626,USR00054,Festival Shopping Fund,lifestyle,51000,9500,3,13833.33,Medium,active
+GOAL00627,USR00343,House Down Payment,property,12227000,5346000,47,146404.26,Medium,active
+GOAL00628,USR00572,Child Education Fund,education,1983000,298500,175,9625.71,Medium,active
+GOAL00629,USR00259,Bike Purchase,vehicle,92000,25000,14,4785.71,Low,active
+GOAL00630,USR00988,Startup Capital,business,555000,249500,36,8486.11,Medium,active
+GOAL00631,USR00154,Higher Education,education,384000,206000,22,8090.91,High,active
+GOAL00632,USR00680,New Car Purchase,vehicle,3614000,2520500,50,21870.0,Low,active
+GOAL00633,USR00318,Child Education Fund,education,374000,333500,89,455.06,Medium,active
+GOAL00634,USR00402,New Car Purchase,vehicle,1875000,61500,35,51814.29,Medium,active
+GOAL00635,USR00961,House Down Payment,property,11260000,102500,75,148766.67,Medium,active
+GOAL00636,USR00386,Child Education Fund,education,6033000,1857000,168,24857.14,Medium,active
+GOAL00637,USR00833,New Car Purchase,vehicle,879000,344000,39,13717.95,Medium,active
+GOAL00638,USR00849,Bike Purchase,vehicle,32000,4000,15,1866.67,Low,active
+GOAL00639,USR00935,Stock Market Portfolio,investment,933000,270000,10,66300.0,High,active
+GOAL00640,USR00687,Retirement Corpus,retirement,36332000,1611000,82,423426.83,Medium,active
+GOAL00641,USR00019,Higher Education,education,427000,116500,28,11089.29,Medium,active
+GOAL00642,USR00974,International Vacation,travel,1056000,333000,15,48200.0,Medium,active
+GOAL00643,USR00785,Gadget / Laptop,technology,13000,2500,11,954.55,High,active
+GOAL00644,USR00141,New Car Purchase,vehicle,2475000,1945500,22,24068.18,High,active
+GOAL00645,USR00865,Festival Shopping Fund,lifestyle,61000,13500,5,9500.0,High,active
+GOAL00646,USR00790,Stock Market Portfolio,investment,2448000,894500,24,64729.17,Low,active
+GOAL00647,USR00905,Stock Market Portfolio,investment,2179000,673000,16,94125.0,High,active
+GOAL00648,USR00345,Startup Capital,business,3059000,1290500,38,46539.47,Medium,active
+GOAL00649,USR00135,Home Renovation,property,326000,16500,23,13456.52,Medium,active
+GOAL00650,USR00167,New Car Purchase,vehicle,295000,95000,51,3921.57,Low,active
+GOAL00651,USR00790,Home Renovation,property,926000,423000,13,38692.31,Low,active
+GOAL00652,USR00170,Bike Purchase,vehicle,132000,47500,8,10562.5,Medium,active
+GOAL00653,USR00421,Higher Education,education,388000,62000,36,9055.56,Medium,active
+GOAL00654,USR00244,Gadget / Laptop,technology,22000,500,10,2150.0,Medium,active
+GOAL00655,USR00771,Bike Purchase,vehicle,190000,118500,4,17875.0,Medium,active
+GOAL00656,USR00240,Stock Market Portfolio,investment,278000,39000,23,10391.3,High,active
+GOAL00657,USR00989,Festival Shopping Fund,lifestyle,15000,7500,1,7500.0,Medium,active
+GOAL00658,USR00926,Medical Insurance Fund,healthcare,91000,41500,18,2750.0,High,active
+GOAL00659,USR00695,Home Renovation,property,286000,118000,29,5793.1,Low,active
+GOAL00660,USR00473,Festival Shopping Fund,lifestyle,39000,500,3,12833.33,High,active
+GOAL00661,USR00392,Stock Market Portfolio,investment,666000,342500,25,12940.0,Medium,active
+GOAL00662,USR00990,New Car Purchase,vehicle,612000,476000,27,5037.04,Low,active
+GOAL00663,USR00821,Home Renovation,property,373000,204000,18,9388.89,High,active
+GOAL00664,USR00257,Emergency Fund,savings,908000,206000,20,35100.0,Medium,active
+GOAL00665,USR00896,Higher Education,education,190000,61000,32,4031.25,Medium,active
+GOAL00666,USR00106,Bike Purchase,vehicle,89000,19500,13,5346.15,Low,active
+GOAL00667,USR00872,House Down Payment,property,7866000,3097500,100,47685.0,High,active
+GOAL00668,USR00782,New Car Purchase,vehicle,774000,107500,33,20196.97,High,active
+GOAL00669,USR00928,Stock Market Portfolio,investment,257000,69000,31,6064.52,High,active
+GOAL00670,USR00448,House Down Payment,property,1570000,419000,32,35968.75,Low,active
+GOAL00671,USR00228,Medical Insurance Fund,healthcare,99000,55500,13,3346.15,Medium,active
+GOAL00672,USR00358,Startup Capital,business,2028000,351500,27,62092.59,High,active
+GOAL00673,USR00055,Retirement Corpus,retirement,1819000,52000,180,9816.67,Medium,active
+GOAL00674,USR00242,Retirement Corpus,retirement,1840000,936500,264,3422.35,Low,active
+GOAL00675,USR00384,International Vacation,travel,193000,90500,9,11388.89,High,active
+GOAL00676,USR00954,House Down Payment,property,1990000,256500,45,38522.22,Low,active
+GOAL00677,USR00666,Higher Education,education,149000,33500,15,7700.0,Medium,active
+GOAL00678,USR00141,Emergency Fund,savings,949000,433000,16,32250.0,High,active
+GOAL00679,USR00850,Gadget / Laptop,technology,19000,5000,1,14000.0,Medium,active
+GOAL00680,USR00143,Festival Shopping Fund,lifestyle,82000,21000,1,61000.0,Medium,active
+GOAL00681,USR00460,Home Renovation,property,307000,14500,35,8357.14,High,active
+GOAL00682,USR00082,Emergency Fund,savings,181000,19500,13,12423.08,High,active
+GOAL00683,USR00856,New Car Purchase,vehicle,2945000,354000,18,143944.44,Medium,active
+GOAL00684,USR00745,Home Renovation,property,727000,54500,15,44833.33,Medium,active
+GOAL00685,USR00114,Festival Shopping Fund,lifestyle,19000,5500,4,3375.0,High,active
+GOAL00686,USR00309,House Down Payment,property,806000,186500,100,6195.0,High,active
+GOAL00687,USR00430,Child Education Fund,education,367000,136500,106,2174.53,Medium,active
+GOAL00688,USR00469,House Down Payment,property,1221000,361000,64,13437.5,High,active
+GOAL00689,USR00927,Gadget / Laptop,technology,179000,101500,9,8611.11,Medium,active
+GOAL00690,USR00017,Child Education Fund,education,1667000,411500,28,44839.29,Medium,active
+GOAL00691,USR00248,Bike Purchase,vehicle,18000,2000,5,3200.0,High,active
+GOAL00692,USR00440,Emergency Fund,savings,215000,103500,8,13937.5,Medium,active
+GOAL00693,USR00247,Home Renovation,property,720000,22000,12,58166.67,Medium,active
+GOAL00694,USR00681,Child Education Fund,education,2193000,312500,30,62683.33,High,active
+GOAL00695,USR00999,Higher Education,education,2368000,674500,38,44565.79,High,active
+GOAL00696,USR00539,Stock Market Portfolio,investment,124000,14500,15,7300.0,Medium,active
+GOAL00697,USR00520,Stock Market Portfolio,investment,2294000,1041500,21,59642.86,High,active
+GOAL00698,USR00895,Gadget / Laptop,technology,156000,46000,7,15714.29,High,active
+GOAL00699,USR00397,Higher Education,education,703000,27500,39,17320.51,High,active
+GOAL00700,USR00017,Higher Education,education,334000,161500,27,6388.89,Medium,active
+GOAL00701,USR00354,International Vacation,travel,160000,10000,12,12500.0,Medium,active
+GOAL00702,USR00644,House Down Payment,property,1014000,837000,75,2360.0,Medium,active
+GOAL00703,USR00753,Festival Shopping Fund,lifestyle,44000,25000,2,9500.0,Medium,active
+GOAL00704,USR00046,Higher Education,education,1665000,677500,33,29924.24,Medium,active
+GOAL00705,USR00834,Child Education Fund,education,4243000,1455000,41,68000.0,High,active
+GOAL00706,USR00798,Child Education Fund,education,956000,235500,34,21191.18,Medium,active
+GOAL00707,USR00713,Gadget / Laptop,technology,266000,62500,8,25437.5,Medium,active
+GOAL00708,USR00831,New Car Purchase,vehicle,429000,170000,19,13631.58,High,active
+GOAL00709,USR00795,Gadget / Laptop,technology,43000,13500,8,3687.5,High,active
+GOAL00710,USR00207,Emergency Fund,savings,125000,500,14,8892.86,Medium,active
+GOAL00711,USR00908,Emergency Fund,savings,676000,91500,14,41750.0,Medium,active
+GOAL00712,USR00318,Stock Market Portfolio,investment,66000,6000,35,1714.29,Medium,active
+GOAL00713,USR00835,Stock Market Portfolio,investment,51000,1000,25,2000.0,Medium,active
+GOAL00714,USR00038,Festival Shopping Fund,lifestyle,18000,0,4,4500.0,Medium,active
+GOAL00715,USR00293,Higher Education,education,630000,349500,47,5968.09,Low,active
+GOAL00716,USR00049,Medical Insurance Fund,healthcare,50000,35500,6,2416.67,Medium,active
+GOAL00717,USR00280,House Down Payment,property,3360000,1037500,63,36865.08,Medium,active
+GOAL00718,USR00448,Startup Capital,business,1667000,865500,27,29685.19,Medium,active
+GOAL00719,USR00451,Startup Capital,business,3365000,279500,22,140250.0,Low,active
+GOAL00720,USR00348,New Car Purchase,vehicle,1998000,52500,38,51197.37,Medium,active
+GOAL00721,USR00510,Higher Education,education,2344000,337500,30,66883.33,Low,active
+GOAL00722,USR00532,Wedding Fund,lifestyle,1237000,777000,13,35384.62,Low,active
+GOAL00723,USR00745,Retirement Corpus,retirement,21036000,6781500,115,123952.17,High,active
+GOAL00724,USR00617,Medical Insurance Fund,healthcare,126000,53000,9,8111.11,High,active
+GOAL00725,USR00301,Higher Education,education,295000,45000,38,6578.95,High,active
+GOAL00726,USR00336,Child Education Fund,education,894000,441500,132,3428.03,High,active
+GOAL00727,USR00457,Home Renovation,property,197000,29500,7,23928.57,Medium,active
+GOAL00728,USR00171,Bike Purchase,vehicle,195000,79000,5,23200.0,Medium,active
+GOAL00729,USR00458,Emergency Fund,savings,139000,83500,18,3083.33,Medium,active
+GOAL00730,USR00934,Higher Education,education,734000,166500,18,31527.78,Medium,active
+GOAL00731,USR00446,Wedding Fund,lifestyle,3163000,813000,19,123684.21,Medium,active
+GOAL00732,USR00811,Emergency Fund,savings,704000,290500,11,37590.91,High,active
+GOAL00733,USR00653,Retirement Corpus,retirement,3819000,845500,245,12136.73,Medium,active
+GOAL00734,USR00821,Bike Purchase,vehicle,111000,12000,15,6600.0,Medium,active
+GOAL00735,USR00976,Emergency Fund,savings,278000,114500,16,10218.75,High,active
+GOAL00736,USR00623,Child Education Fund,education,4538000,286000,162,26246.91,Medium,active
+GOAL00737,USR00036,New Car Purchase,vehicle,879000,287000,18,32888.89,High,active
+GOAL00738,USR00798,Child Education Fund,education,2416000,856000,103,15145.63,Medium,active
+GOAL00739,USR00393,Home Renovation,property,364000,131500,21,11071.43,High,active
+GOAL00740,USR00158,Child Education Fund,education,996000,386000,98,6224.49,Medium,active
+GOAL00741,USR00380,Higher Education,education,327000,54000,13,21000.0,Medium,active
+GOAL00742,USR00079,Home Renovation,property,135000,96000,8,4875.0,High,active
+GOAL00743,USR00376,Retirement Corpus,retirement,24817000,17196000,179,42575.42,Medium,active
+GOAL00744,USR00286,International Vacation,travel,69000,9500,11,5409.09,Low,active
+GOAL00745,USR00027,Bike Purchase,vehicle,326000,206000,13,9230.77,High,active
+GOAL00746,USR00531,Retirement Corpus,retirement,21297000,9397000,329,36170.21,Low,active
+GOAL00747,USR00121,Wedding Fund,lifestyle,677000,17000,13,50769.23,Medium,active
+GOAL00748,USR00721,Gadget / Laptop,technology,45000,24000,1,21000.0,High,active
+GOAL00749,USR00627,Wedding Fund,lifestyle,2050000,1010000,8,130000.0,Medium,active
+GOAL00750,USR00503,International Vacation,travel,106000,54000,15,3466.67,High,active
+GOAL00751,USR00874,House Down Payment,property,817000,96000,77,9363.64,Medium,active
+GOAL00752,USR00921,Bike Purchase,vehicle,205000,65000,11,12727.27,Medium,active
+GOAL00753,USR00090,Festival Shopping Fund,lifestyle,11000,4500,3,2166.67,Medium,active
+GOAL00754,USR00866,Higher Education,education,913000,156500,43,17593.02,Medium,active
+GOAL00755,USR00727,House Down Payment,property,537000,296500,70,3435.71,Medium,active
+GOAL00756,USR00298,Startup Capital,business,1277000,428000,30,28300.0,High,active
+GOAL00757,USR00162,Bike Purchase,vehicle,558000,82000,7,68000.0,Medium,active
+GOAL00758,USR00718,Child Education Fund,education,108000,67500,77,525.97,High,active
+GOAL00759,USR00371,Stock Market Portfolio,investment,1401000,751500,27,24055.56,High,active
+GOAL00760,USR00206,Festival Shopping Fund,lifestyle,111000,54500,5,11300.0,High,active
+GOAL00761,USR00810,Gadget / Laptop,technology,59000,5500,2,26750.0,High,active
+GOAL00762,USR00568,Home Renovation,property,1001000,153500,30,28250.0,Medium,active
+GOAL00763,USR00823,Stock Market Portfolio,investment,1148000,500500,29,22327.59,High,active
+GOAL00764,USR00906,House Down Payment,property,2879000,1189000,36,46944.44,High,active
+GOAL00765,USR00408,Bike Purchase,vehicle,137000,101000,10,3600.0,Medium,active
+GOAL00766,USR00539,Retirement Corpus,retirement,1520000,12500,302,4991.72,Medium,active
+GOAL00767,USR00844,Home Renovation,property,469000,248000,12,18416.67,High,active
+GOAL00768,USR00996,Higher Education,education,1329000,572000,16,47312.5,Medium,active
+GOAL00769,USR00461,Gadget / Laptop,technology,180000,71500,9,12055.56,Medium,active
+GOAL00770,USR00353,New Car Purchase,vehicle,544000,43000,49,10224.49,Low,active
+GOAL00771,USR00799,Stock Market Portfolio,investment,1051000,399000,17,38352.94,Medium,active
+GOAL00772,USR00187,Festival Shopping Fund,lifestyle,111000,55500,5,11100.0,Low,active
+GOAL00773,USR00444,Stock Market Portfolio,investment,112000,55000,23,2478.26,Low,active
+GOAL00774,USR00057,Medical Insurance Fund,healthcare,128000,21000,20,5350.0,High,active
+GOAL00775,USR00157,Wedding Fund,lifestyle,1143000,730000,22,18772.73,High,active
+GOAL00776,USR00331,Startup Capital,business,3306000,1365000,20,97050.0,Medium,active
+GOAL00777,USR00355,Stock Market Portfolio,investment,74000,32000,28,1500.0,Low,active
+GOAL00778,USR00867,House Down Payment,property,841000,152000,76,9065.79,High,active
+GOAL00779,USR00651,Stock Market Portfolio,investment,1004000,47000,8,119625.0,High,active
+GOAL00780,USR00641,Wedding Fund,lifestyle,1250000,640500,10,60950.0,Medium,active
+GOAL00781,USR00096,Stock Market Portfolio,investment,886000,464000,9,46888.89,Medium,active
+GOAL00782,USR00607,Home Renovation,property,118000,17000,31,3258.06,High,active
+GOAL00783,USR00675,Home Renovation,property,788000,376000,22,18727.27,Medium,active
+GOAL00784,USR00620,Higher Education,education,867000,581000,27,10592.59,Low,active
+GOAL00785,USR00578,Emergency Fund,savings,1493000,409500,15,72233.33,Low,active
+GOAL00786,USR00030,House Down Payment,property,212000,1500,112,1879.46,High,active
+GOAL00787,USR00657,Festival Shopping Fund,lifestyle,28000,6000,5,4400.0,Medium,active
+GOAL00788,USR00667,International Vacation,travel,95000,71000,3,8000.0,Medium,active
+GOAL00789,USR00427,Home Renovation,property,258000,45000,10,21300.0,Medium,active
+GOAL00790,USR00510,Startup Capital,business,6004000,2563500,23,149586.96,Medium,active
+GOAL00791,USR00297,Child Education Fund,education,3605000,1190000,78,30961.54,Low,active
+GOAL00792,USR00495,International Vacation,travel,44000,26000,7,2571.43,Low,active
+GOAL00793,USR00702,Retirement Corpus,retirement,4043000,2439500,99,16196.97,High,active
+GOAL00794,USR00075,Bike Purchase,vehicle,116000,9000,15,7133.33,High,active
+GOAL00795,USR00451,Retirement Corpus,retirement,7934000,3412000,123,36764.23,Medium,active
+GOAL00796,USR00209,Higher Education,education,1991000,1030000,46,20891.3,Medium,active
+GOAL00797,USR00321,Medical Insurance Fund,healthcare,73000,6000,22,3045.45,Medium,active
+GOAL00798,USR00752,Medical Insurance Fund,healthcare,103000,8000,13,7307.69,Medium,active
+GOAL00799,USR00409,New Car Purchase,vehicle,1775000,539000,41,30146.34,Medium,active
+GOAL00800,USR00528,Stock Market Portfolio,investment,340000,81000,14,18500.0,High,active
+GOAL00801,USR00248,Gadget / Laptop,technology,12000,1000,11,1000.0,High,active
+GOAL00802,USR00461,International Vacation,travel,268000,34000,10,23400.0,High,active
+GOAL00803,USR00052,Wedding Fund,lifestyle,179000,65000,31,3677.42,Low,active
+GOAL00804,USR00885,Home Renovation,property,1284000,62500,11,111045.45,Medium,active
+GOAL00805,USR00986,Medical Insurance Fund,healthcare,87000,10500,15,5100.0,Low,active
+GOAL00806,USR00834,Higher Education,education,1919000,1445500,39,12141.03,Low,active
+GOAL00807,USR00739,Higher Education,education,492000,179000,47,6659.57,High,active
+GOAL00808,USR00164,Gadget / Laptop,technology,20000,500,7,2785.71,Low,active
+GOAL00809,USR00479,Gadget / Laptop,technology,72000,44500,3,9166.67,Low,active
+GOAL00810,USR00510,Emergency Fund,savings,1658000,471500,6,197750.0,High,active
+GOAL00811,USR00403,Stock Market Portfolio,investment,180000,122500,13,4423.08,Medium,active
+GOAL00812,USR00247,International Vacation,travel,239000,37000,3,67333.33,Medium,active
+GOAL00813,USR00050,Emergency Fund,savings,272000,96000,21,8380.95,High,active
+GOAL00814,USR00612,Startup Capital,business,308000,152000,51,3058.82,Low,active
+GOAL00815,USR00689,Gadget / Laptop,technology,46000,8000,5,7600.0,High,active
+GOAL00816,USR00009,Medical Insurance Fund,healthcare,61000,29500,20,1575.0,High,active
+GOAL00817,USR00138,Startup Capital,business,8196000,2199000,38,157815.79,High,active
+GOAL00818,USR00375,Festival Shopping Fund,lifestyle,69000,37500,4,7875.0,Medium,active
+GOAL00819,USR00047,Retirement Corpus,retirement,6914000,988500,320,18517.19,High,active
+GOAL00820,USR00576,International Vacation,travel,397000,8500,9,43166.67,Medium,active
+GOAL00821,USR00296,House Down Payment,property,4915000,1306500,109,33105.5,Medium,active
+GOAL00822,USR00462,Festival Shopping Fund,lifestyle,20000,3000,2,8500.0,Medium,active
+GOAL00823,USR00846,Home Renovation,property,198000,45500,22,6931.82,Medium,active
+GOAL00824,USR00122,New Car Purchase,vehicle,340000,9000,33,10030.3,Low,active
+GOAL00825,USR00404,Higher Education,education,236000,122000,18,6333.33,Medium,active
+GOAL00826,USR00348,Stock Market Portfolio,investment,948000,106000,13,64769.23,Low,active
+GOAL00827,USR00774,New Car Purchase,vehicle,2500000,1116500,38,36407.89,High,active
+GOAL00828,USR00522,Retirement Corpus,retirement,42368000,16907000,120,212175.0,Medium,active
+GOAL00829,USR00047,Emergency Fund,savings,253000,88500,15,10966.67,High,active
+GOAL00830,USR00342,Festival Shopping Fund,lifestyle,44000,9500,5,6900.0,Medium,active
+GOAL00831,USR00468,New Car Purchase,vehicle,1471000,780000,31,22290.32,Medium,active
+GOAL00832,USR00528,New Car Purchase,vehicle,532000,204000,33,9939.39,Medium,active
+GOAL00833,USR00628,Higher Education,education,586000,339500,36,6847.22,High,active
+GOAL00834,USR00632,Bike Purchase,vehicle,161000,10000,5,30200.0,Low,active
+GOAL00835,USR00608,Higher Education,education,3389000,1163500,12,185458.33,Medium,active
+GOAL00836,USR00522,Stock Market Portfolio,investment,1748000,343500,20,70225.0,Medium,active
+GOAL00837,USR00577,Wedding Fund,lifestyle,510000,71000,32,13718.75,Medium,active
+GOAL00838,USR00018,Higher Education,education,1228000,623500,25,24180.0,Medium,active
+GOAL00839,USR00113,Retirement Corpus,retirement,1293000,590000,315,2231.75,Medium,active
+GOAL00840,USR00816,Startup Capital,business,1984000,404500,28,56410.71,Medium,active
+GOAL00841,USR00705,Child Education Fund,education,1092000,808500,63,4500.0,High,active
+GOAL00842,USR00486,Wedding Fund,lifestyle,1905000,1628500,13,21269.23,Low,active
+GOAL00843,USR00802,Festival Shopping Fund,lifestyle,48000,33500,3,4833.33,Medium,active
+GOAL00844,USR00234,Bike Purchase,vehicle,274000,83500,6,31750.0,High,active
+GOAL00845,USR00492,New Car Purchase,vehicle,1459000,267000,23,51826.09,Medium,active
+GOAL00846,USR00739,Home Renovation,property,433000,198000,21,11190.48,Medium,active
+GOAL00847,USR00390,New Car Purchase,vehicle,619000,168000,35,12885.71,Low,active
+GOAL00848,USR00249,Emergency Fund,savings,66000,37000,22,1318.18,Medium,active
+GOAL00849,USR00718,House Down Payment,property,171000,80000,25,3640.0,High,active
+GOAL00850,USR00452,Higher Education,education,1396000,361500,28,36946.43,Medium,active
+GOAL00851,USR00423,Bike Purchase,vehicle,230000,86000,5,28800.0,High,active
+GOAL00852,USR00514,Festival Shopping Fund,lifestyle,71000,45500,2,12750.0,Medium,active
+GOAL00853,USR00483,Medical Insurance Fund,healthcare,519000,139500,14,27107.14,Low,active
+GOAL00854,USR00745,Emergency Fund,savings,788000,129500,13,50653.85,Medium,active
+GOAL00855,USR00532,International Vacation,travel,132000,27000,6,17500.0,Medium,active
+GOAL00856,USR00679,Gadget / Laptop,technology,95000,35500,8,7437.5,Medium,active
+GOAL00857,USR00322,New Car Purchase,vehicle,878000,413500,34,13661.76,Medium,active
+GOAL00858,USR00546,Higher Education,education,1073000,274000,35,22828.57,Medium,active
+GOAL00859,USR00693,Festival Shopping Fund,lifestyle,109000,46500,4,15625.0,Low,active
+GOAL00860,USR00698,Child Education Fund,education,1096000,186500,139,6543.17,Low,active
+GOAL00861,USR00271,Home Renovation,property,57000,8000,14,3500.0,Medium,active
+GOAL00862,USR00981,International Vacation,travel,206000,150500,8,6937.5,High,active
+GOAL00863,USR00306,International Vacation,travel,93000,46500,4,11625.0,Low,active
+GOAL00864,USR00305,Festival Shopping Fund,lifestyle,11000,2500,5,1700.0,High,active
+GOAL00865,USR00213,Bike Purchase,vehicle,99000,3500,11,8681.82,Medium,active
+GOAL00866,USR00325,Gadget / Laptop,technology,42000,25000,4,4250.0,Medium,active
+GOAL00867,USR00957,Startup Capital,business,2006000,603000,39,35974.36,Medium,active
+GOAL00868,USR00281,Wedding Fund,lifestyle,633000,159000,26,18230.77,High,active
+GOAL00869,USR00693,Stock Market Portfolio,investment,1549000,519500,31,33209.68,Medium,active
+GOAL00870,USR00405,Medical Insurance Fund,healthcare,167000,56000,11,10090.91,Medium,active
+GOAL00871,USR00792,Festival Shopping Fund,lifestyle,34000,18000,5,3200.0,High,active
+GOAL00872,USR00044,Wedding Fund,lifestyle,777000,727500,11,4500.0,Low,active
+GOAL00873,USR00081,Higher Education,education,418000,39500,44,8602.27,Low,active
+GOAL00874,USR00672,Wedding Fund,lifestyle,628000,195000,34,12735.29,Medium,active
+GOAL00875,USR00220,International Vacation,travel,164000,118500,15,3033.33,Low,active
+GOAL00876,USR00278,Startup Capital,business,6752000,1582500,22,234977.27,Medium,active
+GOAL00877,USR00279,New Car Purchase,vehicle,230000,116000,54,2111.11,High,active
+GOAL00878,USR00759,Home Renovation,property,729000,339500,27,14425.93,High,active
+GOAL00879,USR00052,Child Education Fund,education,484000,364000,148,810.81,Low,active
+GOAL00880,USR00232,Child Education Fund,education,1413000,325500,126,8630.95,High,active
+GOAL00881,USR00103,Retirement Corpus,retirement,14802000,8184500,261,25354.41,Medium,active
+GOAL00882,USR00484,House Down Payment,property,6615000,1335500,92,57385.87,Medium,active
+GOAL00883,USR00141,Emergency Fund,savings,1327000,134000,16,74562.5,Low,active
+GOAL00884,USR00952,New Car Purchase,vehicle,2755000,1746000,42,24023.81,Medium,active
+GOAL00885,USR00958,Startup Capital,business,3193000,1119000,48,43208.33,Low,active
+GOAL00886,USR00489,Child Education Fund,education,5273000,276000,58,86155.17,High,active
+GOAL00887,USR00988,Wedding Fund,lifestyle,427000,64000,14,25928.57,Medium,active
+GOAL00888,USR00662,Emergency Fund,savings,205000,124000,18,4500.0,Low,active
+GOAL00889,USR00092,Child Education Fund,education,3696000,1087500,123,21207.32,Medium,active
+GOAL00890,USR00548,Bike Purchase,vehicle,527000,111500,5,83100.0,Medium,active
+GOAL00891,USR00960,Emergency Fund,savings,936000,102000,19,43894.74,Low,active
+GOAL00892,USR00180,Retirement Corpus,retirement,7215000,1528500,119,47785.71,Low,active
+GOAL00893,USR00181,Startup Capital,business,1862000,1285000,27,21370.37,Low,active
+GOAL00894,USR00857,Retirement Corpus,retirement,2173000,293000,242,7768.6,Medium,active
+GOAL00895,USR00191,Startup Capital,business,1727000,708500,29,35120.69,Medium,active
+GOAL00896,USR00894,Startup Capital,business,3517000,1648000,54,34611.11,High,active
+GOAL00897,USR00039,Emergency Fund,savings,259000,27500,22,10522.73,High,active
+GOAL00898,USR00618,House Down Payment,property,3650000,982500,64,41679.69,Low,active
+GOAL00899,USR00344,Wedding Fund,lifestyle,484000,131500,33,10681.82,Medium,active
+GOAL00900,USR00657,Stock Market Portfolio,investment,276000,74500,15,13433.33,Medium,active
+GOAL00901,USR00911,New Car Purchase,vehicle,941000,11500,57,16307.02,Low,active
+GOAL00902,USR00480,Wedding Fund,lifestyle,404000,214500,21,9023.81,High,active
+GOAL00903,USR00116,Higher Education,education,662000,149000,42,12214.29,High,active
+GOAL00904,USR00470,Child Education Fund,education,1390000,863000,169,3118.34,High,active
+GOAL00905,USR00191,Emergency Fund,savings,691000,98500,6,98750.0,Medium,active
+GOAL00906,USR00810,Wedding Fund,lifestyle,930000,672500,22,11704.55,Medium,active
+GOAL00907,USR00776,International Vacation,travel,187000,85500,15,6766.67,High,active
+GOAL00908,USR00877,Child Education Fund,education,4990000,1952500,49,61989.8,Low,active
+GOAL00909,USR00847,Retirement Corpus,retirement,24823000,15006000,303,32399.34,Medium,active
+GOAL00910,USR00089,Retirement Corpus,retirement,4523000,702500,290,13174.14,Medium,active
+GOAL00911,USR00190,New Car Purchase,vehicle,857000,90000,49,15653.06,Medium,active
+GOAL00912,USR00959,International Vacation,travel,708000,471500,16,14781.25,High,active
+GOAL00913,USR00393,International Vacation,travel,273000,90000,13,14076.92,Medium,active
+GOAL00914,USR00274,Higher Education,education,4174000,984500,34,93808.82,Medium,active
+GOAL00915,USR00741,Home Renovation,property,1245000,443500,10,80150.0,High,active
+GOAL00916,USR00670,Higher Education,education,91000,9500,15,5433.33,Medium,active
+GOAL00917,USR00064,Child Education Fund,education,5458000,2288500,102,31073.53,High,active
+GOAL00918,USR00315,New Car Purchase,vehicle,3318000,1587000,18,96166.67,Medium,active
+GOAL00919,USR00515,Startup Capital,business,384000,194500,47,4031.91,Low,active
+GOAL00920,USR00721,Festival Shopping Fund,lifestyle,23000,5000,1,18000.0,Medium,active
+GOAL00921,USR00121,Child Education Fund,education,475000,105500,43,8593.02,Low,active
+GOAL00922,USR00303,Higher Education,education,1493000,339500,43,26825.58,Medium,active
+GOAL00923,USR00225,New Car Purchase,vehicle,2171000,1031500,44,25897.73,Medium,active
+GOAL00924,USR00466,Bike Purchase,vehicle,329000,80500,9,27611.11,Low,active
+GOAL00925,USR00383,Retirement Corpus,retirement,1672000,1108000,160,3525.0,Medium,active
+GOAL00926,USR00935,Gadget / Laptop,technology,155000,92500,11,5681.82,Medium,active
+GOAL00927,USR00822,Child Education Fund,education,1700000,1127500,76,7532.89,Low,active
+GOAL00928,USR00781,International Vacation,travel,166000,101500,7,9214.29,Medium,active
+GOAL00929,USR00611,Medical Insurance Fund,healthcare,71000,12000,4,14750.0,Medium,active
+GOAL00930,USR00539,Gadget / Laptop,technology,15000,2000,3,4333.33,Medium,active
+GOAL00931,USR00371,House Down Payment,property,5218000,827000,50,87820.0,Low,active
+GOAL00932,USR00115,Emergency Fund,savings,728000,112500,8,76937.5,Low,active
+GOAL00933,USR00925,Stock Market Portfolio,investment,207000,65500,25,5660.0,High,active
+GOAL00934,USR00550,New Car Purchase,vehicle,4020000,666000,14,239571.43,High,active
+GOAL00935,USR00875,Stock Market Portfolio,investment,108000,36000,18,4000.0,Medium,active
+GOAL00936,USR00697,International Vacation,travel,366000,163000,5,40600.0,Medium,active
+GOAL00937,USR00501,House Down Payment,property,4663000,759000,105,37180.95,Low,active
+GOAL00938,USR00457,Festival Shopping Fund,lifestyle,10000,2500,5,1500.0,High,active
+GOAL00939,USR00136,Stock Market Portfolio,investment,658000,481000,34,5205.88,Medium,active
+GOAL00940,USR00578,Emergency Fund,savings,1509000,59000,9,161111.11,Medium,active
+GOAL00941,USR00689,Festival Shopping Fund,lifestyle,36000,5000,5,6200.0,Medium,active
+GOAL00942,USR00023,Retirement Corpus,retirement,12435000,784500,235,49576.6,High,active
+GOAL00943,USR00004,Bike Purchase,vehicle,183000,63500,3,39833.33,High,active
+GOAL00944,USR00075,Emergency Fund,savings,179000,112000,23,2913.04,Medium,active
+GOAL00945,USR00718,House Down Payment,property,189000,55500,31,4306.45,Medium,active
+GOAL00946,USR00062,Startup Capital,business,6142000,1038500,56,91133.93,Low,active
+GOAL00947,USR00957,Gadget / Laptop,technology,178000,23000,9,17222.22,High,active
+GOAL00948,USR00419,New Car Purchase,vehicle,2137000,117500,33,61196.97,Medium,active
+GOAL00949,USR00785,Child Education Fund,education,459000,44500,60,6908.33,Low,active
+GOAL00950,USR00662,Retirement Corpus,retirement,3640000,1124500,143,17590.91,Medium,active
+GOAL00951,USR00913,Retirement Corpus,retirement,9015000,2427000,202,32613.86,Medium,active
+GOAL00952,USR00940,Startup Capital,business,4385000,87500,55,78136.36,Medium,active
+GOAL00953,USR00083,Child Education Fund,education,2151000,855500,28,46267.86,Low,active
+GOAL00954,USR00896,Stock Market Portfolio,investment,198000,63000,8,16875.0,High,active
+GOAL00955,USR00881,Higher Education,education,3007000,1948000,41,25829.27,High,active
+GOAL00956,USR00551,Retirement Corpus,retirement,21528000,10755000,69,156130.43,Medium,active
+GOAL00957,USR00746,International Vacation,travel,177000,8500,17,9911.76,Low,active
+GOAL00958,USR00775,Emergency Fund,savings,276000,117000,9,17666.67,Low,active
+GOAL00959,USR00475,Child Education Fund,education,317000,30500,42,6821.43,Medium,active
+GOAL00960,USR00435,Stock Market Portfolio,investment,43000,7000,19,1894.74,Medium,active
+GOAL00961,USR00236,International Vacation,travel,450000,51000,8,49875.0,Medium,active
+GOAL00962,USR00159,Wedding Fund,lifestyle,610000,307000,27,11222.22,High,active
+GOAL00963,USR00897,Bike Purchase,vehicle,202000,9500,8,24062.5,Medium,active
+GOAL00964,USR00033,Festival Shopping Fund,lifestyle,69000,8500,1,60500.0,Medium,active
+GOAL00965,USR00630,Festival Shopping Fund,lifestyle,160000,48000,2,56000.0,Low,active
+GOAL00966,USR00911,Emergency Fund,savings,377000,66500,20,15525.0,High,active
+GOAL00967,USR00069,House Down Payment,property,1576000,267000,28,46750.0,Medium,active
+GOAL00968,USR00458,Home Renovation,property,389000,7000,34,11235.29,Medium,active
+GOAL00969,USR00894,Emergency Fund,savings,669000,91000,17,34000.0,High,active
+GOAL00970,USR00046,Retirement Corpus,retirement,17668000,6324000,193,58777.2,Medium,active
+GOAL00971,USR00553,International Vacation,travel,19000,1000,12,1500.0,Medium,active
+GOAL00972,USR00795,Emergency Fund,savings,432000,140000,18,16222.22,High,active
+GOAL00973,USR00297,International Vacation,travel,582000,44500,12,44791.67,Low,active
+GOAL00974,USR00750,Home Renovation,property,124000,61500,7,8928.57,Medium,active
+GOAL00975,USR00613,Festival Shopping Fund,lifestyle,129000,40000,5,17800.0,Medium,active
+GOAL00976,USR00329,International Vacation,travel,215000,128500,8,10812.5,Medium,active
+GOAL00977,USR00147,Child Education Fund,education,1871000,416500,95,15310.53,Medium,active
+GOAL00978,USR00424,Wedding Fund,lifestyle,444000,54000,31,12580.65,High,active
+GOAL00979,USR00571,Home Renovation,property,1094000,170500,21,43976.19,Low,active
+GOAL00980,USR00934,New Car Purchase,vehicle,1060000,93500,29,33327.59,Medium,active
+GOAL00981,USR00438,Stock Market Portfolio,investment,3593000,227500,24,140229.17,Medium,active
+GOAL00982,USR00996,Higher Education,education,812000,130000,18,37888.89,Low,active
+GOAL00983,USR00688,Retirement Corpus,retirement,3983000,2919000,101,10534.65,Medium,active
+GOAL00984,USR00327,Bike Purchase,vehicle,118000,52500,5,13100.0,Medium,active
+GOAL00985,USR00153,Wedding Fund,lifestyle,810000,203000,20,30350.0,Medium,active
+GOAL00986,USR00773,Stock Market Portfolio,investment,267000,29000,17,14000.0,Medium,active
+GOAL00987,USR00870,International Vacation,travel,238000,39500,5,39700.0,Medium,active
+GOAL00988,USR00725,New Car Purchase,vehicle,762000,296000,33,14121.21,Low,active
+GOAL00989,USR00937,Emergency Fund,savings,103000,66000,10,3700.0,Medium,active
+GOAL00990,USR00992,Retirement Corpus,retirement,3819000,715000,338,9183.43,Medium,active
+GOAL00991,USR00138,Retirement Corpus,retirement,13574000,3028500,303,34803.63,High,active
+GOAL00992,USR00209,Higher Education,education,1975000,347000,12,135666.67,Medium,active
+GOAL00993,USR00945,Gadget / Laptop,technology,102000,26000,7,10857.14,Low,active
+GOAL00994,USR00095,Stock Market Portfolio,investment,384000,8500,15,25033.33,Medium,active
+GOAL00995,USR00196,Emergency Fund,savings,528000,108000,16,26250.0,High,active
+GOAL00996,USR00690,Home Renovation,property,86000,38000,6,8000.0,Medium,active
+GOAL00997,USR00895,House Down Payment,property,10832000,4152500,75,89060.0,High,active
+GOAL00998,USR00780,Home Renovation,property,150000,57000,22,4227.27,Medium,active
+GOAL00999,USR00573,International Vacation,travel,138000,33000,16,6562.5,Medium,active
+GOAL01000,USR00891,Startup Capital,business,1763000,1047500,22,32522.73,Medium,active

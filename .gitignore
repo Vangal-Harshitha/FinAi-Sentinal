@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+node_modules/
+.next/
+dist/
+build/
+
+# Environment
+.env
+
+# ML / Models (optional but recommended)
+*.pkl
+*.joblib
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
