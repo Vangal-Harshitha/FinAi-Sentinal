@@ -42,23 +42,24 @@ except Exception as e:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    logger.info(f"🚀  Starting {settings.APP_NAME} v{settings.APP_VERSION}")
+    logger.info(f"🚀 Starting {settings.APP_NAME} v{settings.APP_VERSION}")
 
-    # Sync DB setup (fixed)
     async with engine.begin() as conn:
-    await conn.run_sync(Base.metadata.create_all)
-    logger.info("✅  Database tables verified")
+        await conn.run_sync(Base.metadata.create_all)
+
+    logger.info("✅ Database tables verified")
 
     try:
         from services.ml_registry import model_registry
         await model_registry.load_all()
-        logger.info("🤖  ML models loaded")
+        logger.info("🤖 ML models loaded")
     except Exception as e:
-        logger.warning(f"⚠️  ML models not fully loaded (fallbacks active): {e}")
+        logger.warning(f"⚠️ ML models not fully loaded: {e}")
 
     yield
 
-    logger.info("🛑  Shutting down")
+    logger.info("🛑 Shutting down")
+    await engine.dispose()
 
 app = FastAPI(
     title=settings.APP_NAME,
