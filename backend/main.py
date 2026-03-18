@@ -1,6 +1,14 @@
 """
 main.py  —  FinAI FastAPI Application Entry Point (Phase 9 Integrated)
 """
+import traceback
+
+try:
+    print("STARTING APP...")
+except Exception as e:
+    print("EARLY ERROR:", e)
+    traceback.print_exc()
+    raise e
 import sys, time
 from contextlib import asynccontextmanager
 from pathlib import Path
@@ -8,21 +16,28 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
-from fastapi import FastAPI, Request, status
-from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
-from loguru import logger
+import traceback
 
-from api.routes import ai, auth, goals, receipts, transactions, voice, fraud
-from core.config import get_settings
-from db.database import engine
-from models.orm import Base
+try:
+    from fastapi import FastAPI, Request, status
+    from fastapi.middleware.cors import CORSMiddleware
+    from fastapi.responses import JSONResponse
+    from loguru import logger
 
+    from api.routes import ai, auth, goals, receipts, transactions, voice, fraud
+    from core.config import get_settings
+    from db.database import engine
+    from models.orm import Base
 
+except Exception as e:
+    print("IMPORT ERROR:", e)
+    traceback.print_exc()
+    raise e
 try:
     settings = get_settings()
 except Exception as e:
     print("CONFIG ERROR:", e)
+    traceback.print_exc()
     raise e
 
 @asynccontextmanager
@@ -30,7 +45,8 @@ async def lifespan(app: FastAPI):
     logger.info(f"🚀  Starting {settings.APP_NAME} v{settings.APP_VERSION}")
 
     # Sync DB setup (fixed)
-    Base.metadata.create_all(bind=engine)
+    async with engine.begin() as conn:
+    await conn.run_sync(Base.metadata.create_all)
     logger.info("✅  Database tables verified")
 
     try:
