@@ -19,25 +19,30 @@ from db.database import engine
 from models.orm import Base
 
 
-settings = get_settings()
-
+try:
+    settings = get_settings()
+except Exception as e:
+    print("CONFIG ERROR:", e)
+    raise e
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info(f"🚀  Starting {settings.APP_NAME} v{settings.APP_VERSION}")
-    async with engine.begin() as conn:
-        await conn.run_sync(Base.metadata.create_all)
+
+    # Sync DB setup (fixed)
+    Base.metadata.create_all(bind=engine)
     logger.info("✅  Database tables verified")
+
     try:
         from services.ml_registry import model_registry
         await model_registry.load_all()
         logger.info("🤖  ML models loaded")
     except Exception as e:
         logger.warning(f"⚠️  ML models not fully loaded (fallbacks active): {e}")
-    yield
-    logger.info("🛑  Shutting down")
-    await engine.dispose()
 
+    yield
+
+    logger.info("🛑  Shutting down")
 
 app = FastAPI(
     title=settings.APP_NAME,
