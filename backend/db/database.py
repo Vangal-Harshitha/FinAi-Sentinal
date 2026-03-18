@@ -1,40 +1,32 @@
 """
 db/database.py — Async SQLAlchemy engine + session factory
 """
-from sqlalchemy.ext.asyncio import AsyncSession, async_sessionmaker, create_async_engine
-from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker, DeclarativeBase
 from core.config import get_settings
 
 settings = get_settings()
 
-engine = create_async_engine(
-    settings.DATABASE_URL,
+# Sync Engine (psycopg2)
+engine = create_engine(
+    settings.DATABASE_URL_SYNC,
     echo=settings.DEBUG,
-    pool_size=10,
-    max_overflow=20,
     pool_pre_ping=True,
 )
 
-AsyncSessionLocal = async_sessionmaker(
-    engine,
-    class_=AsyncSession,
-    expire_on_commit=False,
+# Session
+SessionLocal = sessionmaker(
+    bind=engine,
     autoflush=False,
+    autocommit=False,
 )
+
+# Base class
+class Base(DeclarativeBase):
+    pass
+
 
 
 class Base(DeclarativeBase):
     pass
 
-
-async def get_db() -> AsyncSession:
-    """FastAPI dependency — yields an async DB session."""
-    async with AsyncSessionLocal() as session:
-        try:
-            yield session
-            await session.commit()
-        except Exception:
-            await session.rollback()
-            raise
-        finally:
-            await session.close()
