@@ -15,18 +15,23 @@ Functions
 from __future__ import annotations
 import sys
 from pathlib import Path
-
 import numpy as np
 import pandas as pd
 
-ROOT     = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[2]
 SAVE_DIR = Path(__file__).parent / "saved_model"
 sys.path.insert(0, str(ROOT))
 
-from explainability.shap_explainer import (
-    compute_shap, generate_nl_anomaly, generate_nl_forecast,
-    generate_nl_health, generate_nl_budget, build_ai_explanation_row,
-    top_drivers, ANOMALY_FEATURES,
+# ✅ Correct import
+from ml_models.explainability.shap_explainer import (
+    compute_shap,
+    generate_nl_anomaly,
+    generate_nl_forecast,
+    generate_nl_health,
+    generate_nl_budget,
+    build_ai_explanation_row,
+    top_drivers,
+    ANOMALY_FEATURES,
 )
 
 _anom_model = _anom_scaler = _fc_bundle = None
