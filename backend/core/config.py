@@ -4,7 +4,7 @@ core/config.py — Centralised application settings loaded from .env
 import os
 from functools import lru_cache
 from pathlib import Path
-from pydantic_settings import BaseSettings, SettingsConfigDict
+from pydantic import BaseSettings, SettingsConfigDict
 
 BACKEND_DIR = Path(__file__).resolve().parents[1]
 ROOT_DIR    = BACKEND_DIR.parent
