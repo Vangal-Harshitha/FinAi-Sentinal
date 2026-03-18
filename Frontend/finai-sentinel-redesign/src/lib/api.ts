@@ -69,19 +69,19 @@ export function apiError(e: unknown): string {
 // ══════════════════════════════════════════════════════
 export const authApi = {
   login: async (email: string, password: string) => {
-    const { data } = await api.post("/auth/login", { email, password })
-    return data
-  },
+  const formData = new URLSearchParams()
 
-  register: async (body: Record<string, unknown>) => {
-    const { data } = await api.post("/auth/register", body)
-    return data
-  },
+  formData.append("username", email)
+  formData.append("password", password)
 
-  me: async () => {
-    const { data } = await api.get("/auth/me")
-    return data
-  },
+  const { data } = await api.post("/auth/token", formData, {
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded",
+    },
+  })
+
+  return data
+},
 
   logout: () => {
     localStorage.removeItem("finai_token")
