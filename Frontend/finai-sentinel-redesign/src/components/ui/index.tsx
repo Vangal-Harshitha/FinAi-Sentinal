@@ -24,9 +24,12 @@ export function Skeleton({ className }: { className?: string }) {
 export function SkeletonCard({ rows = 3 }: { rows?: number }) {
   return (
     <div className="card p-5 space-y-3">
-      <Skeleton className="h-4 rounded" style={{ width: '33%' } as any} />
+      <Skeleton className="h-4 rounded w-1/3" />
       {Array.from({ length: rows }).map((_, i) => (
-        <Skeleton key={i} className="h-3 rounded" style={{ width: i === 0 ? '66%' : '50%' } as any} />
+        <Skeleton
+  key={i}
+  className={`h-3 rounded ${i === 0 ? 'w-2/3' : 'w-1/2'}`}
+/>
       ))}
     </div>
   )
